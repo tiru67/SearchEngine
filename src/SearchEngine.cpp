@@ -7,6 +7,7 @@
 #include <vector>
 #include <algorithm>
 #include "dirent.h"
+#include "stem.h"
 using namespace std;
 
 // constants
@@ -82,7 +83,8 @@ void indexing(string file_name, string s) {
  * @param string s
  */
 void stemming(string &s) {
-
+    int newEndPoint = stem(&s[0],0,s.length()-1);
+	s = s.substr(0,newEndPoint+1);
 }
 
 /**
