@@ -1,0 +1,2556 @@
+typic txt22.txt txt27.txt txt21.txt txt32.txt txt10.txt txt26.txt txt06.txt txt35.txt 
+hobbyist txt22.txt 
+aquarium txt22.txt txt21.txt txt15.txt 
+includ txt22.txt txt37.txt txt31.txt txt17.txt txt27.txt txt18.txt txt38.txt txt28.txt txt34.txt txt29.txt txt08.txt txt12.txt txt09.txt txt16.txt txt10.txt txt15.txt txt24.txt txt26.txt txt06.txt txt35.txt 
+filtrat txt22.txt 
+artifici txt22.txt txt11.txt 
+light txt22.txt txt36.txt txt25.txt 
+heater txt22.txt 
+chiller txt22.txt 
+depend txt22.txt txt18.txt 
+s txt22.txt txt33.txt txt36.txt txt37.txt txt19.txt txt18.txt txt38.txt txt11.txt txt05.txt txt04.txt txt23.txt txt21.txt txt34.txt txt07.txt txt09.txt txt16.txt txt25.txt txt10.txt txt15.txt txt24.txt txt35.txt 
+inhabit txt22.txt txt17.txt txt28.txt txt34.txt txt29.txt 
+aquaria txt22.txt txt21.txt txt12.txt 
+incorpor txt22.txt txt18.txt 
+hood txt22.txt 
+contain txt22.txt txt38.txt txt04.txt txt14.txt txt21.txt txt29.txt txt06.txt txt35.txt 
+decreas txt22.txt 
+evapor txt22.txt 
+prevent txt22.txt txt11.txt 
+fish txt22.txt txt19.txt txt18.txt txt40.txt txt14.txt txt23.txt txt21.txt txt20.txt txt12.txt txt15.txt txt35.txt 
+leav txt22.txt txt35.txt 
+enter txt22.txt txt37.txt txt27.txt 
+33 txt22.txt txt17.txt txt02.txt txt29.txt txt12.txt txt10.txt txt26.txt txt06.txt 
+combin txt22.txt txt04.txt txt14.txt txt21.txt 
+biolog txt22.txt txt27.txt 
+mechan txt22.txt txt33.txt 
+system txt22.txt txt37.txt 
+common txt22.txt txt34.txt txt20.txt txt08.txt txt10.txt txt26.txt 
+convert txt22.txt 
+ammonia txt22.txt 
+nitrat txt22.txt 
+remov txt22.txt txt11.txt 
+nitrogen txt22.txt txt18.txt 
+expens txt22.txt 
+aquat txt22.txt txt23.txt txt21.txt txt12.txt 
+plant txt22.txt txt19.txt txt21.txt txt10.txt txt35.txt 
+phosphat txt22.txt txt19.txt 
+filter txt22.txt 
+media txt22.txt 
+hous txt22.txt txt04.txt txt23.txt 
+microb txt22.txt 
+mediat txt22.txt 
+nitrif txt22.txt 
+complex txt22.txt txt16.txt 
+compon txt22.txt 
+home txt22.txt txt17.txt txt38.txt txt11.txt txt15.txt 
+54 txt22.txt txt11.txt 
+heat txt22.txt 
+element txt22.txt 
+thermostat txt22.txt 
+allow txt22.txt txt31.txt txt18.txt txt21.txt txt29.txt txt07.txt txt12.txt txt16.txt 
+aquarist txt22.txt txt21.txt 
+regul txt22.txt 
+water txt22.txt txt36.txt txt31.txt txt17.txt txt18.txt txt21.txt txt08.txt txt12.txt txt15.txt txt24.txt 
+temperatur txt22.txt txt17.txt txt12.txt 
+level txt22.txt txt28.txt txt26.txt 
+surround txt22.txt 
+air txt22.txt txt37.txt txt23.txt 
+cooler txt22.txt 
+refriger txt22.txt 
+devic txt22.txt 
+us txt22.txt txt19.txt txt18.txt txt05.txt txt14.txt txt28.txt txt21.txt txt29.txt txt20.txt txt08.txt txt16.txt txt25.txt txt24.txt txt26.txt txt06.txt 
+cold txt22.txt txt37.txt txt24.txt 
+ambient txt22.txt txt12.txt 
+room txt22.txt 
+desir txt22.txt 
+tank txt22.txt txt21.txt 
+thermomet txt22.txt 
+glass txt22.txt txt21.txt 
+alcohol txt22.txt 
+adhes txt22.txt 
+extern txt22.txt 
+plastic txt22.txt 
+strip txt22.txt txt34.txt 
+battery-pow txt22.txt 
+lcd txt22.txt 
+addit txt22.txt txt20.txt txt25.txt txt35.txt 
+pump txt22.txt 
+attach txt22.txt txt11.txt 
+airston txt22.txt 
+increas txt22.txt txt33.txt txt37.txt txt31.txt txt18.txt txt10.txt txt35.txt 
+circul txt22.txt txt18.txt 
+suppli txt22.txt txt23.txt 
+adequ txt22.txt txt23.txt 
+ga txt22.txt 
+exchang txt22.txt txt33.txt 
+surfac txt22.txt txt17.txt txt19.txt 
+wave-mak txt22.txt 
+construct txt22.txt txt21.txt 
+provid txt22.txt txt18.txt txt23.txt txt24.txt 
+wave txt22.txt 
+action txt22.txt 
+32 txt22.txt txt17.txt txt10.txt txt26.txt txt06.txt 
+physic txt22.txt txt11.txt txt23.txt txt07.txt txt09.txt 
+characterist txt22.txt txt21.txt 
+form txt22.txt txt36.txt txt37.txt txt31.txt txt27.txt txt18.txt txt05.txt txt14.txt txt34.txt txt29.txt txt06.txt txt35.txt 
+aspect txt22.txt txt05.txt txt26.txt 
+design txt22.txt txt37.txt 
+size txt22.txt txt31.txt txt27.txt txt19.txt txt18.txt txt28.txt txt21.txt txt29.txt txt20.txt txt09.txt txt25.txt txt15.txt txt24.txt txt26.txt 
+condit txt22.txt txt33.txt txt10.txt 
+densiti txt22.txt 
+float txt22.txt 
+root txt22.txt txt36.txt txt21.txt txt29.txt 
+placement txt22.txt 
+bog-wood txt22.txt 
+creation txt22.txt 
+cave txt22.txt 
+overhang txt22.txt 
+type txt22.txt txt37.txt txt08.txt txt10.txt txt06.txt 
+substrat txt22.txt 
+factor txt22.txt txt02.txt txt14.txt 
+posit txt22.txt txt08.txt 
+affect txt22.txt txt25.txt txt10.txt 
+behavior txt22.txt txt07.txt txt09.txt txt24.txt 
+surviv txt22.txt txt27.txt txt11.txt txt20.txt 
+place txt22.txt txt31.txt txt21.txt txt03.txt 
+stand txt22.txt txt09.txt txt24.txt 
+weight txt22.txt txt09.txt txt25.txt 
+strong txt22.txt txt29.txt txt24.txt 
+distort txt22.txt 
+leak txt22.txt 
+crack txt22.txt txt27.txt txt29.txt 
+built txt22.txt 
+cabinet txt22.txt 
+storag txt22.txt 
+avail txt22.txt txt33.txt 
+style txt22.txt txt24.txt 
+match txt22.txt 
+decor txt22.txt 
+simpl txt22.txt 
+metal txt22.txt 
+polystyren txt22.txt 
+cushion txt22.txt txt29.txt 
+irregular txt22.txt 
+underli txt22.txt 
+itself txt22.txt txt26.txt txt06.txt 
+caus txt22.txt 
+underfram txt22.txt 
+make txt22.txt txt02.txt txt15.txt txt24.txt 
+unnecessari txt22.txt 
+patient txt33.txt txt23.txt 
+protect txt33.txt txt18.txt txt11.txt txt23.txt txt07.txt txt20.txt 
+afford txt33.txt 
+care txt33.txt 
+act txt33.txt txt37.txt 
+ppaca txt33.txt 
+commonli txt33.txt txt17.txt txt14.txt txt23.txt txt03.txt txt26.txt txt06.txt 
+call txt33.txt txt27.txt txt40.txt txt29.txt txt08.txt txt24.txt txt06.txt 
+aca txt33.txt 
+colloqui txt33.txt 
+obamacar txt33.txt 
+unit txt33.txt txt27.txt txt11.txt txt25.txt txt15.txt txt26.txt txt35.txt 
+state txt33.txt txt19.txt txt11.txt txt05.txt txt34.txt txt25.txt txt15.txt txt26.txt txt35.txt 
+feder txt33.txt txt03.txt txt26.txt txt35.txt 
+statut txt33.txt 
+sign txt33.txt txt37.txt txt10.txt 
+law txt33.txt 
+presid txt33.txt 
+barack txt33.txt 
+obama txt33.txt 
+march txt33.txt txt37.txt 
+23 txt33.txt txt31.txt txt17.txt txt05.txt txt29.txt txt08.txt txt25.txt 
+2010 txt33.txt txt07.txt 
+health txt33.txt txt10.txt 
+educ txt33.txt 
+reconcili txt33.txt 
+amend txt33.txt 
+repres txt33.txt txt36.txt txt14.txt txt08.txt 
+signific txt33.txt txt34.txt 
+regulatori txt33.txt 
+overhaul txt33.txt 
+u txt33.txt txt35.txt 
+healthcar txt33.txt 
+passag txt33.txt 
+medicar txt33.txt 
+medicaid txt33.txt 
+1965 txt33.txt 
+hospit txt33.txt 
+primari txt33.txt txt37.txt 
+physician txt33.txt 
+transform txt33.txt 
+practic txt33.txt 
+financi txt33.txt 
+technolog txt33.txt txt37.txt 
+clinic txt33.txt 
+drive txt33.txt txt11.txt txt24.txt 
+better txt33.txt txt37.txt 
+outcom txt33.txt 
+lower txt33.txt txt36.txt txt29.txt txt16.txt 
+cost txt33.txt txt37.txt 
+improv txt33.txt txt14.txt txt21.txt txt20.txt 
+method txt33.txt txt24.txt 
+distribut txt33.txt txt17.txt txt18.txt 
+access txt33.txt 
+enact txt33.txt 
+qualiti txt33.txt txt21.txt txt29.txt 
+insur txt33.txt 
+uninsur txt33.txt 
+rate txt33.txt txt02.txt 
+expand txt33.txt txt31.txt txt08.txt 
+public txt33.txt txt21.txt txt12.txt 
+privat txt33.txt 
+coverag txt33.txt 
+reduc txt33.txt txt37.txt txt11.txt txt29.txt 
+individu txt33.txt txt18.txt txt07.txt txt10.txt txt26.txt txt06.txt 
+govern txt33.txt txt34.txt txt26.txt txt35.txt 
+introduc txt33.txt txt37.txt txt05.txt txt15.txt txt06.txt 
+like txt33.txt txt19.txt txt23.txt txt12.txt txt09.txt 
+mandat txt33.txt 
+subsidi txt33.txt 
+1 txt33.txt txt31.txt txt17.txt txt19.txt txt18.txt txt38.txt txt23.txt txt21.txt txt34.txt txt29.txt txt20.txt txt08.txt txt12.txt txt25.txt txt10.txt txt15.txt txt26.txt 
+2 txt33.txt txt27.txt txt11.txt txt21.txt txt29.txt txt07.txt txt20.txt txt12.txt txt09.txt txt25.txt txt10.txt txt15.txt txt24.txt txt26.txt 
+requir txt33.txt txt37.txt txt17.txt txt19.txt txt02.txt 
+compani txt33.txt txt37.txt txt23.txt txt21.txt 
+cover txt33.txt txt29.txt txt20.txt txt24.txt 
+applic txt33.txt 
+new txt33.txt txt31.txt txt19.txt txt15.txt txt35.txt 
+minimum txt33.txt 
+standard txt33.txt txt03.txt txt26.txt 
+offer txt33.txt 
+regardless txt33.txt txt26.txt 
+pre-exist txt33.txt 
+sex txt33.txt txt11.txt 
+3 txt33.txt txt27.txt txt19.txt txt18.txt txt04.txt txt21.txt txt29.txt txt07.txt txt20.txt txt12.txt txt09.txt txt25.txt txt15.txt txt24.txt 
+2011 txt33.txt txt37.txt 
+congression txt33.txt 
+budget txt33.txt 
+offic txt33.txt 
+project txt33.txt txt37.txt 
+futur txt33.txt txt37.txt 
+deficit txt33.txt 
+4 txt33.txt txt17.txt txt27.txt txt19.txt txt04.txt txt21.txt txt29.txt txt07.txt txt09.txt txt16.txt txt25.txt txt15.txt 
+spend txt33.txt 
+5 txt33.txt txt31.txt txt19.txt txt18.txt txt04.txt txt14.txt txt29.txt txt07.txt txt09.txt txt25.txt txt15.txt 
+june txt33.txt 
+28 txt33.txt txt17.txt txt05.txt txt29.txt txt25.txt 
+2012 txt33.txt 
+suprem txt33.txt txt37.txt 
+court txt33.txt 
+upheld txt33.txt 
+constitution txt33.txt 
+exercis txt33.txt txt23.txt 
+congress txt33.txt 
+tax txt33.txt 
+power txt33.txt txt05.txt txt08.txt txt09.txt 
+6 txt33.txt txt37.txt txt27.txt txt19.txt txt18.txt txt14.txt txt29.txt txt07.txt txt20.txt txt09.txt txt25.txt txt15.txt 
+case txt33.txt txt17.txt txt14.txt 
+nation txt33.txt txt37.txt txt38.txt txt34.txt 
+independ txt33.txt txt37.txt txt40.txt 
+busi txt33.txt 
+v txt33.txt 
+sebeliu txt33.txt 
+held txt33.txt 
+forc txt33.txt txt37.txt txt14.txt 
+particip txt33.txt 
+expans txt33.txt txt31.txt 
+penalti txt33.txt 
+lose txt33.txt 
+current txt33.txt txt37.txt txt25.txt txt35.txt 
+fund txt33.txt 
+7 txt33.txt txt37.txt txt27.txt txt19.txt txt18.txt txt14.txt txt07.txt txt20.txt txt03.txt txt09.txt txt15.txt txt35.txt 
+8 txt33.txt txt37.txt txt19.txt txt18.txt txt02.txt txt07.txt txt03.txt txt15.txt txt35.txt 
+9 txt33.txt txt37.txt txt17.txt txt27.txt txt19.txt txt18.txt txt02.txt txt04.txt txt29.txt txt07.txt txt03.txt txt09.txt txt15.txt txt35.txt 
+rule txt33.txt txt19.txt 
+implement txt33.txt 
+continu txt33.txt 
+face txt33.txt 
+challeng txt33.txt 
+conserv txt33.txt txt29.txt 
+advocaci txt33.txt 
+group txt33.txt txt37.txt txt31.txt txt27.txt txt19.txt txt14.txt txt28.txt txt20.txt txt08.txt txt12.txt txt15.txt txt06.txt 
+labor txt33.txt txt35.txt 
+union txt33.txt 
+small txt33.txt txt36.txt txt31.txt txt27.txt txt19.txt txt18.txt txt14.txt txt21.txt txt20.txt txt16.txt txt25.txt txt10.txt txt15.txt txt24.txt txt26.txt 
+organ txt33.txt txt40.txt txt11.txt txt23.txt txt12.txt txt16.txt txt06.txt 
+25 txt33.txt txt17.txt txt05.txt txt29.txt txt09.txt txt25.txt txt24.txt 
+2015 txt33.txt 
+king txt33.txt txt34.txt 
+burwel txt33.txt 
+affirm txt33.txt 
+help txt33.txt txt11.txt txt29.txt 
+pai txt33.txt 
+just txt33.txt txt26.txt 
+set txt33.txt txt20.txt txt16.txt 
+mirag txt36.txt 
+natur txt36.txt txt05.txt txt32.txt txt15.txt txt35.txt 
+occur txt36.txt txt31.txt txt30.txt txt11.txt txt32.txt txt06.txt 
+optic txt36.txt 
+phenomenon txt36.txt 
+rai txt36.txt txt14.txt txt20.txt 
+bent txt36.txt 
+produc txt36.txt txt31.txt txt11.txt txt21.txt txt26.txt txt35.txt 
+displac txt36.txt 
+imag txt36.txt 
+distant txt36.txt 
+object txt36.txt txt32.txt 
+sky txt36.txt 
+word txt36.txt txt19.txt txt08.txt txt06.txt 
+come txt36.txt txt19.txt txt11.txt txt08.txt 
+english txt36.txt txt19.txt txt21.txt txt08.txt txt09.txt txt06.txt txt35.txt 
+french txt36.txt txt11.txt txt08.txt txt06.txt txt35.txt 
+latin txt36.txt txt21.txt txt08.txt txt06.txt 
+mirari txt36.txt 
+mean txt36.txt txt19.txt txt40.txt txt21.txt txt29.txt 
+look txt36.txt txt19.txt 
+wonder txt36.txt txt21.txt 
+mirror txt36.txt 
+admir txt36.txt 
+contrast txt36.txt txt17.txt 
+hallucin txt36.txt 
+real txt36.txt 
+captur txt36.txt txt16.txt 
+camera txt36.txt 
+actual txt36.txt txt19.txt txt15.txt 
+refract txt36.txt 
+fals txt36.txt 
+observ txt36.txt txt32.txt 
+locat txt36.txt txt02.txt txt35.txt 
+appear txt36.txt txt31.txt txt27.txt txt19.txt txt40.txt txt23.txt txt09.txt 
+determin txt36.txt txt26.txt 
+interpret txt36.txt 
+faculti txt36.txt 
+human txt36.txt txt27.txt txt11.txt txt05.txt txt04.txt txt23.txt txt07.txt txt20.txt txt03.txt txt12.txt txt32.txt txt09.txt txt10.txt txt24.txt txt26.txt txt06.txt 
+mind txt36.txt 
+exampl txt36.txt txt31.txt txt17.txt txt05.txt txt26.txt txt35.txt 
+inferior txt36.txt 
+land txt36.txt txt31.txt txt19.txt txt38.txt txt05.txt txt34.txt txt35.txt 
+easili txt36.txt txt31.txt txt19.txt 
+mistaken txt36.txt 
+reflect txt36.txt txt34.txt txt08.txt 
+bodi txt36.txt txt31.txt txt27.txt txt18.txt txt40.txt txt11.txt txt05.txt txt29.txt txt12.txt txt16.txt txt25.txt txt15.txt txt26.txt 
+categor txt36.txt 
+superior txt36.txt 
+higher txt36.txt txt12.txt 
+fata txt36.txt 
+morgana txt36.txt 
+kind txt36.txt 
+consist txt36.txt txt31.txt txt19.txt txt11.txt txt29.txt txt12.txt 
+seri txt36.txt 
+unusu txt36.txt txt19.txt txt24.txt 
+elabor txt36.txt 
+vertic txt36.txt 
+stack txt36.txt 
+rapidli txt36.txt txt31.txt txt10.txt txt15.txt 
+chang txt36.txt txt12.txt 
+eurofight txt37.txt 
+typhoon txt37.txt 
+twin-engin txt37.txt 
+canard-delta txt37.txt 
+wing txt37.txt 
+multirol txt37.txt 
+fighter txt37.txt 
+manufactur txt37.txt 
+consortium txt37.txt 
+alenia txt37.txt 
+aermacchi txt37.txt 
+airbu txt37.txt 
+bae txt37.txt 
+conduct txt37.txt 
+major txt37.txt txt31.txt txt17.txt txt19.txt txt14.txt txt34.txt 
+affair txt37.txt 
+deal txt37.txt 
+joint txt37.txt 
+hold txt37.txt txt05.txt txt12.txt 
+jagdflugzeug txt37.txt 
+gmbh txt37.txt 
+1986 txt37.txt 
+manag txt37.txt 
+nato txt37.txt 
+tornado txt37.txt 
+agenc txt37.txt txt11.txt 
+prime txt37.txt 
+custom txt37.txt 
+develop txt37.txt txt30.txt txt40.txt txt04.txt txt21.txt txt34.txt txt24.txt 
+aircraft txt37.txt 
+effect txt37.txt txt31.txt 
+began txt37.txt txt31.txt txt24.txt 
+1983 txt37.txt 
+european txt37.txt txt34.txt 
+programm txt37.txt 
+multin txt37.txt 
+collabor txt37.txt 
+effort txt37.txt 
+uk txt37.txt 
+germani txt37.txt txt05.txt 
+franc txt37.txt 
+itali txt37.txt txt05.txt 
+spain txt37.txt 
+disagr txt37.txt 
+author txt37.txt 
+oper txt37.txt 
+left txt37.txt txt31.txt txt18.txt 
+dassault txt37.txt 
+rafal txt37.txt 
+instead txt37.txt txt11.txt txt16.txt 
+demonstr txt37.txt 
+british txt37.txt txt06.txt 
+aerospac txt37.txt 
+eap txt37.txt 
+took txt37.txt txt31.txt 
+flight txt37.txt txt31.txt 
+august txt37.txt 
+prototyp txt37.txt txt08.txt 
+finalis txt37.txt 
+27 txt37.txt txt17.txt txt05.txt txt29.txt txt09.txt txt25.txt txt26.txt 
+1994 txt37.txt 
+formal txt37.txt txt14.txt 
+adopt txt37.txt txt11.txt 
+septemb txt37.txt 
+1998 txt37.txt 
+product txt37.txt txt40.txt txt24.txt 
+contract txt37.txt 
+year txt37.txt txt31.txt txt27.txt txt19.txt txt40.txt txt11.txt txt04.txt txt21.txt txt29.txt txt07.txt txt20.txt txt08.txt txt03.txt txt09.txt txt10.txt txt24.txt 
+polit txt37.txt txt35.txt 
+issu txt37.txt 
+partner txt37.txt txt18.txt 
+significantli txt37.txt txt04.txt 
+protract txt37.txt 
+sudden txt37.txt 
+end txt37.txt txt31.txt txt25.txt 
+war txt37.txt txt35.txt 
+demand txt37.txt 
+debat txt37.txt txt08.txt 
+work txt37.txt txt14.txt txt23.txt txt24.txt 
+share txt37.txt txt16.txt 
+servic txt37.txt 
+2003 txt37.txt 
+austrian txt37.txt 
+italian txt37.txt 
+german txt37.txt txt06.txt 
+royal txt37.txt 
+spanish txt37.txt txt06.txt txt35.txt 
+saudi txt37.txt 
+oman txt37.txt 
+confirm txt37.txt 
+export txt37.txt 
+bring txt37.txt 
+procur txt37.txt 
+total txt37.txt txt25.txt 
+571 txt37.txt 
+2013 txt37.txt txt10.txt 
+highli txt37.txt txt31.txt txt18.txt txt09.txt txt16.txt txt10.txt txt15.txt 
+agil txt37.txt txt19.txt 
+dogfight txt37.txt 
+combat txt37.txt 
+later txt37.txt txt27.txt txt19.txt txt40.txt txt11.txt txt05.txt txt08.txt txt16.txt txt15.txt 
+increasingli txt37.txt 
+equip txt37.txt txt21.txt txt24.txt 
+undertak txt37.txt 
+air-to-surfac txt37.txt 
+strike txt37.txt 
+mission txt37.txt 
+compat txt37.txt 
+likewis txt37.txt 
+number txt37.txt txt19.txt txt18.txt txt11.txt txt05.txt txt02.txt txt21.txt txt03.txt txt25.txt txt10.txt txt15.txt txt35.txt 
+differ txt37.txt txt31.txt txt19.txt txt28.txt txt29.txt txt08.txt txt03.txt txt24.txt txt26.txt 
+armament txt37.txt 
+storm txt37.txt 
+shadow txt37.txt 
+raf txt37.txt 
+brimston txt37.txt 
+saw txt37.txt 
+debut txt37.txt 
+militari txt37.txt txt07.txt 
+intervent txt37.txt 
+libya txt37.txt txt34.txt 
+perform txt37.txt txt23.txt txt07.txt 
+aerial txt37.txt txt31.txt 
+reconnaiss txt37.txt 
+ground txt37.txt txt31.txt txt29.txt 
+taken txt37.txt 
+respons txt37.txt txt02.txt txt24.txt 
+air-def txt37.txt 
+duti txt37.txt 
+true txt31.txt txt27.txt txt19.txt txt16.txt txt24.txt 
+placent txt31.txt txt30.txt 
+mammal txt31.txt txt27.txt txt30.txt txt40.txt txt08.txt txt09.txt txt24.txt 
+crown txt31.txt 
+modern txt31.txt txt19.txt txt28.txt txt21.txt txt34.txt txt20.txt txt09.txt txt06.txt 
+aros txt31.txt txt09.txt 
+stem-group txt31.txt 
+member txt31.txt txt17.txt txt27.txt txt29.txt txt20.txt txt12.txt txt15.txt 
+clade txt31.txt txt14.txt txt20.txt 
+eutheria txt31.txt 
+exist txt31.txt txt17.txt txt19.txt txt28.txt txt06.txt 
+middl txt31.txt txt19.txt txt04.txt txt08.txt 
+jurass txt31.txt 
+period txt31.txt txt17.txt txt19.txt txt35.txt 
+170 txt31.txt 
+mya txt31.txt 
+earli txt31.txt txt05.txt txt14.txt txt21.txt txt03.txt txt06.txt 
+eutherian txt31.txt 
+nocturn txt31.txt 
+insect txt31.txt txt40.txt 
+eater txt31.txt 
+adapt txt31.txt txt27.txt txt29.txt 
+life txt31.txt txt24.txt 
+tree txt31.txt txt14.txt txt29.txt txt35.txt 
+probabl txt31.txt txt04.txt txt25.txt 
+origin txt31.txt txt19.txt txt05.txt txt07.txt txt08.txt txt09.txt txt06.txt 
+late txt31.txt txt05.txt txt06.txt 
+cretac txt31.txt txt19.txt 
+90 txt31.txt 
+earliest txt31.txt txt05.txt txt04.txt txt34.txt txt20.txt txt08.txt txt09.txt 
+undisput txt31.txt 
+fossil txt31.txt txt19.txt txt40.txt txt14.txt txt09.txt 
+paleocen txt31.txt 
+66 txt31.txt txt26.txt 
+follow txt31.txt txt14.txt txt29.txt txt25.txt txt24.txt 
+disappear txt31.txt 
+dinosaur txt31.txt 
+stem txt31.txt 
+ungul txt31.txt txt29.txt txt24.txt 
+protungulatum txt31.txt 
+donna txt31.txt 
+10 txt31.txt txt19.txt txt18.txt txt38.txt txt07.txt txt10.txt txt15.txt txt26.txt 
+known txt31.txt txt19.txt txt40.txt txt02.txt txt04.txt txt14.txt txt21.txt txt29.txt txt20.txt txt09.txt txt15.txt 
+meter txt31.txt 
+cretaceous-paleogen txt31.txt 
+boundari txt31.txt 
+mark txt31.txt txt24.txt 
+11 txt31.txt txt19.txt txt08.txt txt03.txt txt15.txt txt24.txt 
+primat txt31.txt 
+purgatoriu txt31.txt 
+300 txt31.txt txt19.txt txt04.txt txt25.txt txt24.txt 
+000 txt31.txt txt34.txt txt07.txt txt20.txt txt03.txt txt09.txt txt25.txt txt15.txt 
+k-pg txt31.txt 
+12 txt31.txt txt17.txt txt19.txt txt20.txt txt08.txt txt03.txt txt16.txt 
+rapid txt31.txt txt19.txt 
+mass txt31.txt 
+extinct txt31.txt txt27.txt txt19.txt txt02.txt txt14.txt txt07.txt txt20.txt txt12.txt txt09.txt 
+suggest txt31.txt txt19.txt txt04.txt 
+undergon txt31.txt 
+initi txt31.txt txt07.txt 
+diversif txt31.txt 
+molecular txt31.txt txt28.txt 
+clock txt31.txt 
+13 txt31.txt txt17.txt txt19.txt txt04.txt txt08.txt txt03.txt txt16.txt txt10.txt 
+lineag txt31.txt txt27.txt txt14.txt 
+lead txt31.txt txt05.txt txt20.txt 
+xenarthra txt31.txt 
+afrotheria txt31.txt 
+boreoeutheria txt31.txt 
+underw txt31.txt 
+70-80 txt31.txt 
+eventu txt31.txt txt40.txt txt08.txt 
+rodent txt31.txt txt05.txt txt04.txt txt23.txt 
+insectivor txt31.txt txt29.txt 
+artiodactyl txt31.txt 
+carnivoran txt31.txt txt27.txt 
+singl txt31.txt txt14.txt txt29.txt txt16.txt 
+tooth txt31.txt 
+recent txt31.txt txt28.txt txt07.txt 
+discov txt31.txt txt19.txt txt15.txt 
+14 txt31.txt txt19.txt txt34.txt txt08.txt txt03.txt txt25.txt txt26.txt 
+order txt31.txt txt11.txt txt15.txt 
+paleogen txt31.txt 
+evolut txt31.txt txt19.txt txt14.txt txt15.txt 
+carnivor txt31.txt txt35.txt 
+radiat txt31.txt 
+15 txt31.txt txt34.txt txt08.txt txt25.txt 
+quickli txt31.txt 
+evolv txt31.txt txt19.txt txt14.txt txt15.txt txt24.txt 
+advantag txt31.txt txt14.txt 
+ecolog txt31.txt txt15.txt 
+nich txt31.txt 
+open txt31.txt txt17.txt txt29.txt 
+anim txt31.txt txt27.txt txt30.txt txt40.txt txt11.txt txt05.txt txt23.txt txt21.txt txt29.txt txt07.txt txt08.txt txt12.txt txt09.txt txt24.txt txt26.txt txt06.txt 
+chicxulub txt31.txt 
+asteroid txt31.txt 
+impact txt31.txt txt07.txt 
+occupi txt31.txt 
+larg txt31.txt txt17.txt txt19.txt txt11.txt txt02.txt txt04.txt txt28.txt txt21.txt txt34.txt txt29.txt txt12.txt txt25.txt txt10.txt txt15.txt txt24.txt txt35.txt 
+herbivor txt31.txt 
+exploit txt31.txt 
+touch txt31.txt txt09.txt 
+bat txt31.txt 
+echoloc txt31.txt 
+whale txt31.txt txt20.txt 
+freshwat txt31.txt txt17.txt txt19.txt txt20.txt txt15.txt 
+lake txt31.txt txt17.txt txt15.txt 
+river txt31.txt txt17.txt txt34.txt txt20.txt txt35.txt 
+move txt31.txt 
+ocean txt31.txt txt17.txt txt19.txt txt18.txt txt38.txt txt12.txt 
+acquir txt31.txt txt11.txt 
+special txt31.txt txt21.txt txt24.txt 
+grasp txt31.txt 
+hand txt31.txt txt25.txt txt26.txt txt06.txt 
+feet txt31.txt txt05.txt txt29.txt 
+branch txt31.txt 
+ey txt31.txt txt29.txt txt16.txt 
+keener txt31.txt 
+vision txt31.txt txt09.txt 
+forag txt31.txt txt06.txt 
+dark txt31.txt txt10.txt 
+pathwai txt31.txt 
+contin txt31.txt txt27.txt txt19.txt txt29.txt 
+cross txt31.txt txt17.txt txt05.txt txt24.txt 
+except txt31.txt txt17.txt txt38.txt txt29.txt txt20.txt txt26.txt txt35.txt 
+smaller txt31.txt 
+laurasia txt31.txt 
+colon txt31.txt txt19.txt 
+africa txt31.txt txt17.txt txt34.txt txt35.txt 
+south txt31.txt txt17.txt txt27.txt txt34.txt txt35.txt 
+america txt31.txt txt17.txt txt19.txt 
+raft txt31.txt 
+led txt31.txt 
+eleph txt31.txt 
+shrew txt31.txt 
+tenrec txt31.txt 
+golden txt31.txt txt07.txt 
+mole txt31.txt 
+aardvark txt31.txt 
+manate txt31.txt 
+similar txt31.txt txt27.txt txt19.txt txt14.txt txt29.txt txt15.txt txt06.txt 
+event txt31.txt txt14.txt txt08.txt 
+sloth txt31.txt 
+anteat txt31.txt 
+armadillo txt31.txt 
+glyptodont txt31.txt 
+domin txt31.txt txt27.txt 
+perissodactyl txt31.txt 
+bridg txt31.txt txt34.txt 
+link txt31.txt 
+eurasia txt31.txt txt07.txt 
+north txt31.txt txt17.txt txt19.txt txt34.txt txt29.txt txt09.txt txt15.txt txt35.txt 
+cichlid txt17.txt txt16.txt txt15.txt 
+species-rich txt17.txt 
+non-ostariophysan txt17.txt 
+famili txt17.txt txt27.txt txt18.txt txt29.txt txt16.txt txt15.txt txt24.txt 
+worldwid txt17.txt txt19.txt txt02.txt txt34.txt txt12.txt 
+divers txt17.txt txt14.txt txt28.txt txt12.txt txt16.txt txt15.txt 
+estim txt17.txt txt19.txt txt04.txt txt25.txt txt15.txt 
+host txt17.txt txt18.txt 
+600 txt17.txt txt04.txt txt20.txt txt25.txt 
+speci txt17.txt txt18.txt txt40.txt txt05.txt txt02.txt txt28.txt txt29.txt txt07.txt txt20.txt txt08.txt txt12.txt txt15.txt txt35.txt 
+central txt17.txt txt34.txt txt29.txt 
+mexico txt17.txt txt35.txt 
+120 txt17.txt 
+far txt17.txt 
+rio txt17.txt 
+grand txt17.txt 
+southern txt17.txt txt15.txt txt35.txt 
+texa txt17.txt txt35.txt 
+madagascar txt17.txt 
+distinct txt17.txt txt16.txt txt26.txt 
+katria txt17.txt 
+oxylapia txt17.txt 
+paratilapia txt17.txt 
+paretroplu txt17.txt 
+ptychochromi txt17.txt 
+ptychochromoid txt17.txt 
+distantli txt17.txt 
+relat txt17.txt txt21.txt txt29.txt txt12.txt txt09.txt txt25.txt txt15.txt txt24.txt txt06.txt 
+african txt17.txt txt04.txt txt29.txt txt03.txt txt15.txt txt06.txt txt35.txt 
+mainland txt17.txt 
+24 txt17.txt txt05.txt txt29.txt txt08.txt txt09.txt txt25.txt 
+nativ txt17.txt txt18.txt txt35.txt 
+absent txt17.txt txt29.txt 
+asia txt17.txt txt34.txt txt03.txt txt09.txt 
+israel txt17.txt txt34.txt 
+lebanon txt17.txt 
+syria txt17.txt 
+astatotilapia txt17.txt 
+flaviijosephi txt17.txt 
+oreochromi txt17.txt 
+aureu txt17.txt 
+o txt17.txt 
+niloticu txt17.txt 
+sarotherodon txt17.txt 
+galilaeu txt17.txt 
+coptodon txt17.txt 
+zillii txt17.txt 
+tristramella txt17.txt 
+spp txt17.txt 
+iran txt17.txt 
+iranocichla txt17.txt 
+india txt17.txt 
+sri txt17.txt txt11.txt 
+lanka txt17.txt txt11.txt 
+etroplu txt17.txt 
+disregard txt17.txt 
+trinidad txt17.txt 
+tobago txt17.txt 
+genera txt17.txt txt18.txt txt16.txt 
+widespread txt17.txt txt18.txt txt24.txt 
+american txt17.txt txt27.txt txt11.txt txt29.txt txt15.txt txt35.txt 
+genu txt17.txt txt18.txt txt08.txt 
+nandopsi txt17.txt 
+antil txt17.txt 
+caribbean txt17.txt txt19.txt 
+specif txt17.txt txt18.txt txt02.txt txt23.txt txt24.txt 
+cuba txt17.txt 
+hispaniola txt17.txt 
+europ txt17.txt txt05.txt txt09.txt txt24.txt txt06.txt 
+australia txt17.txt txt26.txt 
+antarctica txt17.txt txt27.txt txt29.txt 
+drainag txt17.txt 
+florida txt17.txt 
+japan txt17.txt txt05.txt 
+northern txt17.txt 
+feral txt17.txt txt11.txt txt02.txt txt08.txt txt24.txt txt06.txt 
+popul txt17.txt txt02.txt txt28.txt txt34.txt txt20.txt txt10.txt txt24.txt txt35.txt 
+establish txt17.txt txt21.txt 
+exot txt17.txt 
+26 txt17.txt txt05.txt txt29.txt txt09.txt txt25.txt 
+29 txt17.txt txt38.txt txt05.txt txt29.txt txt26.txt 
+30 txt17.txt txt24.txt txt26.txt txt06.txt 
+rel txt17.txt txt14.txt txt29.txt txt08.txt 
+shallow txt17.txt txt19.txt txt18.txt 
+depth txt17.txt txt20.txt txt12.txt 
+alticorpu txt17.txt 
+macrocleithrum txt17.txt 
+pallidochromi txt17.txt 
+tokolosh txt17.txt 
+150 txt17.txt txt19.txt 
+m txt17.txt txt15.txt 
+490 txt17.txt 
+ft txt17.txt txt27.txt txt19.txt txt29.txt txt20.txt txt15.txt 
+malawi txt17.txt txt15.txt 
+31 txt17.txt txt26.txt txt06.txt 
+whitish txt17.txt 
+nonpig txt17.txt 
+blind txt17.txt txt29.txt txt10.txt 
+lamprologu txt17.txt 
+lethop txt17.txt 
+believ txt17.txt txt05.txt txt04.txt txt29.txt txt08.txt txt03.txt txt24.txt 
+live txt17.txt txt27.txt txt30.txt txt19.txt txt18.txt txt40.txt txt05.txt txt34.txt txt29.txt txt20.txt txt03.txt txt12.txt txt10.txt txt24.txt 
+deep txt17.txt txt21.txt txt20.txt 
+160 txt17.txt txt29.txt 
+520 txt17.txt 
+congo txt17.txt 
+brackish txt17.txt 
+saltwat txt17.txt 
+habitat txt17.txt txt02.txt txt29.txt 
+toler txt17.txt 
+extend txt17.txt 
+cichlasoma txt17.txt 
+urophthalmu txt17.txt 
+equal txt17.txt txt25.txt 
+marsh txt17.txt txt35.txt 
+mangrov txt17.txt 
+swamp txt17.txt txt35.txt 
+breed txt17.txt txt27.txt txt11.txt txt02.txt txt29.txt txt08.txt txt03.txt txt09.txt txt25.txt txt10.txt txt24.txt txt26.txt txt06.txt 
+environ txt17.txt txt19.txt txt12.txt txt35.txt 
+belt txt17.txt 
+barrier txt17.txt txt18.txt 
+island txt17.txt txt38.txt txt02.txt txt29.txt 
+tilapia txt17.txt txt15.txt 
+euryhalin txt17.txt 
+dispers txt17.txt 
+coastlin txt17.txt 
+primarili txt17.txt txt30.txt txt02.txt txt23.txt 
+salt txt17.txt 
+notabl txt17.txt 
+maculatu txt17.txt 
+suratensi txt17.txt 
+melanotheron txt17.txt 
+34 txt17.txt txt28.txt txt10.txt txt26.txt txt06.txt 
+extrem txt17.txt txt08.txt 
+warm txt17.txt 
+hypersalin txt17.txt 
+alcolapia txt17.txt 
+danakilia txt17.txt 
+abaed txt17.txt 
+eritrea txt17.txt 
+encompass txt17.txt 
+entir txt17.txt txt06.txt 
+d txt17.txt txt27.txt txt34.txt 
+dinicolai txt17.txt 
+rang txt17.txt txt02.txt txt28.txt txt21.txt txt29.txt txt20.txt txt16.txt txt25.txt txt10.txt txt15.txt 
+45 txt17.txt txt24.txt 
+°c txt17.txt 
+84 txt17.txt 
+113 txt17.txt txt09.txt 
+°f txt17.txt 
+35 txt17.txt txt10.txt txt26.txt txt06.txt 
+reach txt17.txt txt18.txt txt29.txt txt20.txt txt24.txt 
+predominantli txt17.txt txt08.txt 
+gondwanan txt17.txt 
+show txt17.txt txt08.txt 
+precis txt17.txt 
+sister txt17.txt txt20.txt 
+relationship txt17.txt txt18.txt txt28.txt 
+predict txt17.txt 
+vicari txt17.txt 
+africa-south txt17.txt 
+india-madagascar txt17.txt 
+36 txt17.txt txt10.txt txt06.txt 
+hypothesi txt17.txt 
+negoti txt17.txt 
+thousand txt17.txt txt19.txt 
+kilometr txt17.txt txt34.txt 
+colonis txt17.txt 
+matter txt17.txt 
+mozambiqu txt17.txt 
+channel txt17.txt txt29.txt 
+vast txt17.txt txt35.txt 
+malagasi txt17.txt 
+restrict txt17.txt txt18.txt 
+fresh txt17.txt txt23.txt 
+grandidieri txt17.txt 
+polyacti txt17.txt 
+coastal txt17.txt txt35.txt 
+appar txt17.txt 
+37 txt17.txt txt10.txt txt06.txt 
+38 txt17.txt txt10.txt txt06.txt 
+e txt17.txt txt12.txt txt10.txt txt15.txt 
+39 txt17.txt txt20.txt txt10.txt txt06.txt 
+40 txt17.txt txt34.txt txt07.txt txt10.txt txt26.txt txt06.txt 
+canida txt27.txt txt28.txt 
+kæn txt27.txt 
+di txt27.txt txt19.txt txt10.txt 
+domest txt27.txt txt11.txt txt05.txt txt04.txt txt29.txt txt07.txt txt08.txt txt03.txt txt09.txt txt24.txt txt06.txt 
+dog txt27.txt txt19.txt txt11.txt txt28.txt txt23.txt txt29.txt txt07.txt txt08.txt txt09.txt txt10.txt txt06.txt 
+wolv txt27.txt txt08.txt txt09.txt 
+fox txt27.txt txt29.txt txt08.txt 
+jackal txt27.txt txt07.txt txt08.txt 
+coyot txt27.txt txt08.txt 
+extant txt27.txt txt14.txt txt07.txt txt08.txt txt24.txt 
+dog-lik txt27.txt 
+canid txt27.txt txt28.txt txt29.txt txt07.txt 
+ke txt27.txt 
+n txt27.txt 
+divid txt27.txt txt40.txt txt14.txt txt24.txt 
+tribe txt27.txt txt35.txt 
+canini txt27.txt 
+vulpini txt27.txt 
+long txt27.txt txt19.txt txt28.txt txt21.txt txt29.txt txt07.txt 
+evolutionari txt27.txt txt14.txt txt28.txt 
+histori txt27.txt txt19.txt txt34.txt txt25.txt 
+eocen txt27.txt 
+50 txt27.txt txt38.txt txt11.txt txt21.txt txt35.txt 
+million txt27.txt txt19.txt txt40.txt txt11.txt txt34.txt txt20.txt txt24.txt 
+ago txt27.txt txt19.txt txt40.txt txt04.txt txt07.txt txt20.txt txt03.txt txt09.txt 
+split txt27.txt txt14.txt 
+caniform txt27.txt 
+feliform txt27.txt 
+cat-lik txt27.txt 
+oligocen txt27.txt 
+proper txt27.txt txt20.txt 
+subfamili txt27.txt txt18.txt 
+hesperocyonina txt27.txt 
+borophagina txt27.txt txt29.txt 
+canina txt27.txt txt29.txt 
+present txt27.txt txt05.txt txt29.txt txt32.txt 
+dai txt27.txt txt11.txt 
+vari txt27.txt txt11.txt txt29.txt txt12.txt txt16.txt txt25.txt txt10.txt txt15.txt 
+2-m-long txt27.txt 
+grai txt27.txt txt29.txt txt07.txt txt08.txt txt09.txt 
+wolf txt27.txt txt28.txt txt29.txt txt07.txt txt08.txt txt09.txt 
+24-cm-long txt27.txt 
+fennec txt27.txt txt29.txt 
+have txt27.txt txt21.txt txt34.txt txt03.txt txt15.txt 
+muzzl txt27.txt txt29.txt 
+upright txt27.txt 
+ear txt27.txt txt29.txt 
+teeth txt27.txt txt19.txt txt29.txt txt20.txt txt09.txt 
+bone txt27.txt txt29.txt txt09.txt txt16.txt txt24.txt txt26.txt 
+slice txt27.txt txt29.txt 
+flesh txt27.txt txt29.txt 
+leg txt27.txt txt29.txt txt26.txt 
+bushi txt27.txt txt29.txt 
+tail txt27.txt txt29.txt txt09.txt txt16.txt txt26.txt 
+social txt27.txt txt23.txt 
+behav txt27.txt 
+cooper txt27.txt txt26.txt 
+pair txt27.txt 
+litter txt27.txt txt11.txt txt08.txt 
+young txt27.txt txt05.txt txt29.txt txt24.txt 
+rear txt27.txt txt29.txt 
+annual txt27.txt txt15.txt 
+underground txt27.txt 
+den txt27.txt 
+commun txt27.txt 
+scent txt27.txt txt29.txt 
+signal txt27.txt 
+vocal txt27.txt 
+dingo txt27.txt 
+partnership txt27.txt 
+todai txt27.txt txt14.txt txt28.txt txt24.txt 
+remain txt27.txt txt19.txt txt18.txt txt34.txt txt15.txt txt24.txt 
+wide txt27.txt txt11.txt txt29.txt txt08.txt txt16.txt txt10.txt txt15.txt txt24.txt 
+kept txt27.txt txt05.txt txt14.txt txt23.txt txt21.txt txt12.txt txt15.txt 
+placentalia txt30.txt 
+subdivis txt30.txt txt35.txt 
+class txt30.txt txt14.txt txt23.txt 
+mammalia txt30.txt 
+monotremata txt30.txt 
+marsupialia txt30.txt 
+distinguish txt30.txt txt16.txt txt26.txt 
+fetu txt30.txt 
+carri txt30.txt txt05.txt txt24.txt 
+uteru txt30.txt txt11.txt 
+mother txt30.txt txt08.txt 
+nourish txt30.txt 
+placenta txt30.txt 
+birth txt30.txt txt29.txt txt08.txt txt24.txt 
+fulli txt30.txt txt21.txt txt25.txt 
+offspr txt30.txt txt08.txt 
+16th txt19.txt txt08.txt txt06.txt 
+centuri txt19.txt txt05.txt txt34.txt txt08.txt txt06.txt txt35.txt 
+shark txt19.txt txt14.txt txt20.txt txt12.txt 
+marin txt19.txt txt40.txt 
+sea txt19.txt txt18.txt txt14.txt txt21.txt txt34.txt txt20.txt 
+etymolog txt19.txt txt06.txt 
+uncertain txt19.txt 
+theori txt19.txt 
+deriv txt19.txt txt08.txt txt24.txt 
+yucatec txt19.txt 
+maya txt19.txt 
+xok txt19.txt 
+pronounc txt19.txt 
+shok txt19.txt 
+evid txt19.txt txt04.txt 
+oxford txt19.txt 
+dictionari txt19.txt 
+note txt19.txt txt23.txt 
+came txt19.txt txt35.txt 
+sir txt19.txt 
+john txt19.txt 
+hawkin txt19.txt 
+sailor txt19.txt 
+exhibit txt19.txt txt05.txt txt12.txt txt15.txt txt26.txt txt06.txt 
+london txt19.txt txt21.txt 
+1569 txt19.txt 
+post txt19.txt 
+refer txt19.txt txt11.txt txt14.txt txt20.txt txt08.txt txt06.txt 
+record txt19.txt txt40.txt txt14.txt txt25.txt txt06.txt 
+isol txt19.txt txt02.txt 
+occurr txt19.txt 
+letter txt19.txt 
+written txt19.txt 
+thoma txt19.txt 
+beckington txt19.txt 
+1442 txt19.txt 
+world txt19.txt txt38.txt txt05.txt txt28.txt txt34.txt txt07.txt txt20.txt txt08.txt txt03.txt txt25.txt txt24.txt txt26.txt 
+altern txt19.txt txt06.txt 
+sens txt19.txt txt09.txt txt24.txt 
+predat txt19.txt txt18.txt txt09.txt txt24.txt 
+prei txt19.txt txt29.txt 
+dutch txt19.txt txt06.txt 
+schurk txt19.txt 
+villain txt19.txt 
+scoundrel txt19.txt 
+cf txt19.txt 
+card txt19.txt 
+loan txt19.txt 
+appli txt19.txt 
+predatori txt19.txt txt09.txt 
+behaviour txt19.txt txt18.txt txt15.txt 
+photo txt19.txt 
+dozen txt19.txt 
+yellowish txt19.txt 
+variou txt19.txt txt40.txt txt34.txt txt07.txt txt12.txt txt09.txt txt10.txt 
+spread txt19.txt txt05.txt txt34.txt 
+randomli txt19.txt 
+flat txt19.txt 
+black txt19.txt txt05.txt 
+collect txt19.txt 
+date txt19.txt txt20.txt txt09.txt 
+ordovician txt19.txt 
+450–420 txt19.txt 
+vertebr txt19.txt txt40.txt txt14.txt txt12.txt txt15.txt 
+scale txt19.txt 
+recov txt19.txt 
+paleontologist txt19.txt 
+agre txt19.txt 
+suspect txt19.txt 
+thelodont txt19.txt 
+agnathan txt19.txt txt14.txt 
+oldest txt19.txt txt07.txt 
+gener txt19.txt txt18.txt txt11.txt txt14.txt txt20.txt txt08.txt txt15.txt txt24.txt txt06.txt 
+accept txt19.txt txt08.txt 
+420 txt19.txt txt20.txt 
+silurian txt19.txt 
+trace txt19.txt 
+100 txt19.txt txt12.txt txt25.txt 
+partial txt19.txt 
+skeleton txt19.txt txt04.txt txt20.txt 
+complet txt19.txt txt29.txt txt06.txt 
+grow txt19.txt txt21.txt txt29.txt 
+ten txt19.txt 
+lifetim txt19.txt 
+explain txt19.txt txt21.txt 
+abund txt19.txt txt12.txt 
+calcium txt19.txt 
+apatit txt19.txt 
+decompos txt19.txt 
+break txt19.txt txt10.txt 
+scatter txt19.txt 
+prism txt19.txt 
+preserv txt19.txt 
+burial txt19.txt 
+sediment txt19.txt txt35.txt 
+ancient txt19.txt txt05.txt txt04.txt txt14.txt txt34.txt txt03.txt txt09.txt 
+primit txt19.txt txt14.txt 
+cladoselach txt19.txt txt20.txt 
+370 txt19.txt 
+paleozo txt19.txt 
+strata txt19.txt 
+ohio txt19.txt 
+kentucki txt19.txt 
+tennesse txt19.txt 
+point txt19.txt txt40.txt txt25.txt 
+earth txt19.txt txt09.txt 
+rock txt19.txt 
+soft txt19.txt 
+stretch txt19.txt 
+metr txt19.txt txt20.txt 
+stiff txt19.txt 
+triangular txt19.txt txt16.txt 
+fin txt19.txt txt14.txt txt20.txt 
+slender txt19.txt 
+jaw txt19.txt txt14.txt txt16.txt 
+cusp txt19.txt 
+wore txt19.txt 
+did txt19.txt 
+replac txt19.txt txt21.txt txt20.txt 
+regularli txt19.txt 
+caudal txt19.txt 
+shape txt19.txt txt21.txt txt16.txt txt15.txt 
+great txt19.txt txt18.txt txt34.txt txt20.txt txt09.txt txt15.txt 
+white txt19.txt txt18.txt txt20.txt txt12.txt 
+pelag txt19.txt txt29.txt 
+shortfin txt19.txt 
+longfin txt19.txt 
+mako txt19.txt txt20.txt 
+presenc txt19.txt txt02.txt 
+arrang txt19.txt 
+tail-first txt19.txt 
+stomach txt19.txt txt16.txt 
+fast txt19.txt 
+swimmer txt19.txt txt12.txt 
+assign txt19.txt 
+xenacanthida txt19.txt 
+exclus txt19.txt txt26.txt 
+time txt19.txt txt11.txt txt04.txt txt21.txt txt34.txt txt29.txt txt09.txt 
+220 txt19.txt txt05.txt txt25.txt 
+hybodont txt19.txt 
+320 txt19.txt txt25.txt 
+citat txt19.txt txt05.txt txt06.txt 
+need txt19.txt txt05.txt txt24.txt txt06.txt 
+result txt19.txt txt18.txt txt02.txt txt32.txt 
+2014 txt19.txt txt08.txt 
+studi txt19.txt txt18.txt txt04.txt txt14.txt txt28.txt txt34.txt txt07.txt txt08.txt txt03.txt txt10.txt txt15.txt 
+gill txt19.txt txt20.txt 
+structur txt19.txt txt29.txt txt16.txt 
+well-preserv txt19.txt 
+325 txt19.txt 
+old txt19.txt txt11.txt txt04.txt txt08.txt txt06.txt 
+extens txt19.txt txt07.txt txt24.txt txt35.txt 
+previous txt19.txt 
+thought txt19.txt txt02.txt txt07.txt 
+hundr txt19.txt 
+clownfish txt18.txt 
+anemonefish txt18.txt 
+amphiprionina txt18.txt 
+pomacentrida txt18.txt txt15.txt 
+thirti txt18.txt 
+recogn txt18.txt txt03.txt txt35.txt 
+premna txt18.txt 
+amphiprion txt18.txt 
+wild txt18.txt txt29.txt txt08.txt txt12.txt txt24.txt txt06.txt 
+symbiot txt18.txt 
+mutual txt18.txt 
+anemon txt18.txt 
+overal txt18.txt txt26.txt 
+yellow txt18.txt 
+orang txt18.txt 
+reddish txt18.txt 
+blackish txt18.txt 
+color txt18.txt txt24.txt 
+bar txt18.txt 
+patch txt18.txt 
+largest txt18.txt txt20.txt txt09.txt txt25.txt txt15.txt txt35.txt 
+length txt18.txt txt11.txt txt29.txt txt20.txt txt09.txt txt15.txt 
+18 txt18.txt txt04.txt txt08.txt txt25.txt 
+centimetr txt18.txt txt20.txt txt26.txt 
+smallest txt18.txt txt09.txt txt25.txt 
+bare txt18.txt 
+achiev txt18.txt txt23.txt 
+warmer txt18.txt 
+indian txt18.txt 
+pacif txt18.txt txt38.txt 
+reef txt18.txt 
+red txt18.txt txt34.txt txt08.txt 
+shelter txt18.txt txt11.txt txt24.txt 
+lagoon txt18.txt 
+atlant txt18.txt 
+mutualist txt18.txt 
+benefit txt18.txt txt23.txt 
+especi txt18.txt txt12.txt txt10.txt txt26.txt txt06.txt 
+heteracti txt18.txt 
+stichodactyla txt18.txt 
+entacmaea txt18.txt 
+quadricolor txt18.txt 
+frequent txt18.txt 
+food txt18.txt txt20.txt txt12.txt txt16.txt txt10.txt txt15.txt txt24.txt 
+scrap txt18.txt 
+meal txt18.txt 
+occasion txt18.txt txt26.txt 
+dead txt18.txt 
+tentacl txt18.txt 
+return txt18.txt 
+defend txt18.txt txt10.txt 
+parasit txt18.txt txt20.txt txt10.txt 
+pick txt18.txt 
+nutrient txt18.txt 
+excrement txt18.txt 
+function txt18.txt 
+safe txt18.txt 
+nest txt18.txt 
+site txt18.txt txt04.txt 
+excret txt18.txt 
+alga txt18.txt 
+tissu txt18.txt 
+aid txt18.txt txt07.txt 
+growth txt18.txt 
+regener txt18.txt 
+theoriz txt18.txt 
+bright txt18.txt 
+lure txt18.txt 
+activ txt18.txt txt29.txt txt20.txt txt12.txt txt24.txt 
+greater txt18.txt txt14.txt txt34.txt txt12.txt 
+alter txt18.txt 
+flow txt18.txt txt28.txt 
+certain txt18.txt txt10.txt 
+movement txt18.txt 
+wedg txt18.txt 
+switch txt18.txt 
+aerat txt18.txt 
+metabol txt18.txt txt10.txt 
+mainli txt18.txt 
+respir txt18.txt txt14.txt 
+rim txt38.txt 
+basin txt38.txt 
+roughli txt38.txt txt11.txt 
+overlap txt38.txt 
+geolog txt38.txt 
+ring txt38.txt txt29.txt 
+hotb txt38.txt 
+oversea txt38.txt 
+ship txt38.txt txt05.txt 
+busiest txt38.txt 
+port txt38.txt 
+dubai txt38.txt 
+jebel txt38.txt 
+ali txt38.txt 
+9th txt38.txt 
+multicellular txt40.txt 
+eukaryot txt40.txt 
+kingdom txt40.txt 
+animalia txt40.txt 
+metazoa txt40.txt 
+motil txt40.txt 
+spontan txt40.txt 
+plan txt40.txt 
+fix txt40.txt 
+undergo txt40.txt 
+process txt40.txt txt08.txt txt16.txt txt10.txt txt35.txt 
+metamorphosi txt40.txt 
+heterotroph txt40.txt 
+ingest txt40.txt txt10.txt 
+susten txt40.txt 
+phyla txt40.txt 
+cambrian txt40.txt 
+explos txt40.txt 
+542 txt40.txt 
+sub-group txt40.txt 
+bird txt40.txt txt02.txt txt21.txt txt35.txt 
+amphibian txt40.txt txt21.txt 
+reptil txt40.txt txt23.txt txt21.txt 
+mollusc txt40.txt 
+clam txt40.txt 
+oyster txt40.txt 
+octopus txt40.txt 
+squid txt40.txt 
+snail txt40.txt 
+arthropod txt40.txt txt23.txt 
+milliped txt40.txt 
+centiped txt40.txt 
+spider txt40.txt 
+scorpion txt40.txt 
+crab txt40.txt txt23.txt 
+lobster txt40.txt 
+shrimp txt40.txt 
+annelid txt40.txt 
+earthworm txt40.txt 
+leech txt40.txt 
+spong txt40.txt 
+jellyfish txt40.txt 
+sexual txt11.txt 
+matur txt11.txt txt25.txt txt26.txt 
+begin txt11.txt txt24.txt 
+happen txt11.txt 
+ag txt11.txt txt05.txt txt12.txt txt10.txt txt24.txt 
+month txt11.txt txt24.txt 
+male txt11.txt txt29.txt txt08.txt txt06.txt 
+femal txt11.txt txt08.txt txt10.txt txt15.txt txt24.txt txt06.txt 
+47 txt11.txt 
+delai txt11.txt 
+estrou txt11.txt 
+cycl txt11.txt 
+experi txt11.txt txt32.txt 
+subsequ txt11.txt txt34.txt 
+biannual txt11.txt 
+prepar txt11.txt txt32.txt 
+pregnanc txt11.txt 
+peak txt11.txt txt25.txt 
+estru txt11.txt 
+mental txt11.txt 
+recept txt11.txt 
+copul txt11.txt 
+ova txt11.txt 
+capabl txt11.txt txt07.txt txt09.txt txt10.txt 
+fertil txt11.txt txt05.txt txt04.txt 
+week txt11.txt txt29.txt 
+ovul txt11.txt 
+possibl txt11.txt txt05.txt txt08.txt 
+mate txt11.txt txt29.txt 
+2–5 txt11.txt 
+concept txt11.txt txt24.txt 
+14–16 txt11.txt 
+embryo txt11.txt 
+22–23 txt11.txt 
+heart txt11.txt txt10.txt 
+beat txt11.txt 
+detect txt11.txt 
+48 txt11.txt 
+49 txt11.txt 
+bear txt11.txt 
+58 txt11.txt txt03.txt txt26.txt 
+68 txt11.txt txt25.txt 
+averag txt11.txt txt10.txt txt24.txt txt26.txt 
+63 txt11.txt 
+gestat txt11.txt 
+puppi txt11.txt txt08.txt 
+51 txt11.txt 
+base txt11.txt txt29.txt txt16.txt txt24.txt 
+toi txt11.txt 
+larger txt11.txt txt25.txt txt10.txt txt15.txt 
+trait txt11.txt txt16.txt txt24.txt 
+select txt11.txt txt07.txt txt09.txt 
+interfer txt11.txt 
+reproduct txt11.txt 
+bulldog txt11.txt 
+instanc txt11.txt txt03.txt txt06.txt 
+incap txt11.txt 
+mount txt11.txt 
+insemin txt11.txt 
+reproduc txt11.txt 
+52 txt11.txt 
+neuter txt11.txt txt02.txt txt06.txt 
+nurs txt11.txt 
+steril txt11.txt 
+usual txt11.txt txt25.txt txt26.txt 
+testicl txt11.txt 
+ovari txt11.txt 
+elimin txt11.txt 
+abil txt11.txt 
+procreat txt11.txt 
+overpopul txt11.txt 
+countri txt11.txt txt05.txt txt34.txt txt25.txt 
+control txt11.txt txt05.txt txt02.txt txt24.txt 
+societi txt11.txt txt07.txt 
+cruelti txt11.txt 
+aspca txt11.txt 
+advis txt11.txt 
+intend txt11.txt 
+undesir txt11.txt 
+euthan txt11.txt 
+53 txt11.txt 
+accord txt11.txt txt05.txt txt03.txt 
+3–4 txt11.txt 
+cat txt11.txt txt05.txt txt02.txt txt04.txt txt23.txt txt29.txt txt03.txt txt06.txt 
+confin txt11.txt txt23.txt 
+cage txt11.txt txt12.txt 
+spai txt11.txt txt06.txt 
+castrat txt11.txt 
+local txt11.txt txt35.txt 
+spca txt11.txt 
+urg txt11.txt 
+peopl txt11.txt txt23.txt txt21.txt txt34.txt txt07.txt txt06.txt txt35.txt 
+pet txt11.txt txt02.txt txt23.txt txt03.txt txt12.txt txt06.txt 
+purchas txt11.txt txt35.txt 
+egypt txt05.txt txt04.txt txt34.txt txt03.txt 
+sacr txt05.txt 
+goddess txt05.txt 
+bastet txt05.txt 
+depict txt05.txt txt04.txt 
+take txt05.txt 
+war-lik txt05.txt 
+lioness txt05.txt 
+20 txt05.txt txt29.txt txt08.txt 
+roman txt05.txt txt21.txt txt34.txt txt06.txt 
+credit txt05.txt 
+223 txt05.txt 
+aquitain txt05.txt 
+first- txt05.txt 
+second-centuri txt05.txt 
+engrav txt05.txt 
+girl txt05.txt 
+21 txt05.txt txt29.txt txt08.txt txt25.txt 
+prior txt05.txt 
+empir txt05.txt txt21.txt 
+britain txt05.txt 
+iron txt05.txt 
+22 txt05.txt txt29.txt txt08.txt txt25.txt 
+rest txt05.txt txt29.txt 
+discoveri txt05.txt txt04.txt 
+sail txt05.txt 
+shipboard txt05.txt 
+good-luck txt05.txt 
+charm txt05.txt 
+religion txt05.txt txt34.txt 
+exalt txt05.txt 
+soul txt05.txt 
+companion txt05.txt txt23.txt 
+guid txt05.txt 
+all-know txt05.txt 
+mute txt05.txt 
+influenc txt05.txt txt34.txt txt25.txt txt35.txt 
+decis txt05.txt 
+maneki txt05.txt 
+neko txt05.txt 
+symbol txt05.txt txt12.txt 
+good txt05.txt 
+fortun txt05.txt 
+islam txt05.txt txt34.txt 
+rever txt05.txt 
+muslim txt05.txt 
+western txt05.txt txt07.txt txt26.txt 
+writer txt05.txt 
+muhammad txt05.txt 
+favorit txt05.txt 
+muezza txt05.txt 
+report txt05.txt 
+love txt05.txt 
+cloak txt05.txt 
+disturb txt05.txt 
+sleep txt05.txt txt24.txt 
+stori txt05.txt 
+confus txt05.txt 
+sufi txt05.txt 
+saint txt05.txt 
+ahm txt05.txt 
+ar-rifa txt05.txt 
+freyja txt05.txt 
+beauti txt05.txt 
+nors txt05.txt txt08.txt 
+mytholog txt05.txt 
+ride txt05.txt txt25.txt txt24.txt 
+chariot txt05.txt 
+drawn txt05.txt txt26.txt 
+cultur txt05.txt txt34.txt txt07.txt txt12.txt txt32.txt txt35.txt 
+neg txt05.txt txt10.txt 
+superstit txt05.txt 
+belief txt05.txt 
+path txt05.txt 
+bad txt05.txt 
+luck txt05.txt 
+witch txt05.txt 
+familiar txt05.txt txt08.txt txt15.txt 
+augment txt05.txt 
+skill txt05.txt 
+kill txt05.txt txt10.txt 
+mediev txt05.txt 
+ypre txt05.txt 
+belgium txt05.txt 
+commemor txt05.txt 
+innocu txt05.txt 
+present-dai txt05.txt txt04.txt 
+kattenstoet txt05.txt 
+parad txt05.txt 
+myth txt05.txt 
+multipl txt05.txt 
+greec txt05.txt 
+spanish-speak txt05.txt 
+region txt05.txt txt02.txt txt34.txt txt35.txt 
+said txt05.txt 
+seven txt05.txt txt20.txt 
+turkish txt05.txt 
+arab txt05.txt txt34.txt 
+tradit txt05.txt txt14.txt txt26.txt 
+attribut txt05.txt txt07.txt txt09.txt 
+suppl txt05.txt 
+swift txt05.txt 
+escap txt05.txt txt24.txt 
+life-threaten txt05.txt 
+situat txt05.txt 
+lend txt05.txt 
+credenc txt05.txt 
+fact txt05.txt 
+fall txt05.txt 
+instinct txt05.txt 
+right txt05.txt txt23.txt txt16.txt 
+reflex txt05.txt 
+twist txt05.txt 
+nonetheless txt05.txt 
+injur txt05.txt 
+high txt05.txt txt02.txt txt28.txt txt12.txt txt25.txt txt26.txt 
+bred txt02.txt txt07.txt txt09.txt 
+shown txt02.txt 
+regist txt02.txt 
+pedigre txt02.txt txt06.txt 
+hobbi txt02.txt 
+fanci txt02.txt txt23.txt 
+failur txt02.txt 
+abandon txt02.txt 
+household txt02.txt txt10.txt txt06.txt 
+contribut txt02.txt 
+destruct txt02.txt 
+extirp txt02.txt 
+sole txt02.txt txt29.txt txt26.txt 
+free txt02.txt 
+unsuit txt02.txt 
+attempt txt02.txt 
+reestablish txt02.txt 
+suitabl txt02.txt txt21.txt txt24.txt 
+tradition txt04.txt 
+historian txt04.txt 
+tend txt04.txt txt15.txt 
+think txt04.txt 
+ow txt04.txt 
+clear txt04.txt txt09.txt 
+egyptian txt04.txt txt34.txt txt06.txt 
+paint txt04.txt 
+2004 txt04.txt 
+neolith txt04.txt txt03.txt 
+grave txt04.txt 
+excav txt04.txt 
+shillourokambo txt04.txt 
+cypru txt04.txt 
+laid txt04.txt 
+close txt04.txt txt29.txt txt08.txt txt09.txt txt15.txt 
+500 txt04.txt txt20.txt txt03.txt txt25.txt 
+push txt04.txt 
+feline–human txt04.txt 
+associ txt04.txt txt07.txt txt03.txt txt06.txt 
+16 txt04.txt txt08.txt txt25.txt 
+17 txt04.txt txt20.txt txt08.txt txt25.txt 
+specimen txt04.txt 
+resembl txt04.txt txt14.txt 
+wildcat txt04.txt txt03.txt txt06.txt 
+f txt04.txt 
+lybica txt04.txt txt03.txt 
+genet txt04.txt txt28.txt txt07.txt txt03.txt txt09.txt txt10.txt 
+east txt04.txt txt34.txt txt35.txt 
+crescent txt04.txt 
+agricultur txt04.txt txt23.txt txt34.txt txt24.txt 
+brought txt04.txt txt23.txt txt21.txt 
+direct txt04.txt 
+quanhucun txt04.txt 
+china txt04.txt txt21.txt 
+publish txt04.txt txt21.txt 
+attract txt04.txt txt23.txt txt06.txt 
+villag txt04.txt 
+turn txt04.txt 
+grain txt04.txt 
+cultiv txt04.txt 
+store txt04.txt 
+19 txt04.txt txt08.txt 
+monophylet txt14.txt 
+jawless txt14.txt 
+armor txt14.txt 
+ostracoderm txt14.txt 
+lamprei txt14.txt txt12.txt 
+approxim txt14.txt txt20.txt txt24.txt 
+pre-jaw txt14.txt 
+placodermi txt14.txt 
+indic txt14.txt txt07.txt txt08.txt txt09.txt 
+mouth txt14.txt 
+unclear txt14.txt 
+hing txt14.txt 
+bite txt14.txt 
+creatur txt14.txt txt24.txt 
+coral-lik txt14.txt 
+squirt txt14.txt 
+larva txt14.txt 
+import txt14.txt txt12.txt txt15.txt txt35.txt 
+wai txt14.txt 
+ancestor txt14.txt txt08.txt 
+larval txt14.txt 
+adulthood txt14.txt 
+revers txt14.txt 
+taxonomi txt14.txt txt08.txt 
+paraphylet txt14.txt txt20.txt txt12.txt 
+tetrapod txt14.txt 
+reason txt14.txt txt16.txt 
+pisc txt14.txt 
+seen txt14.txt txt08.txt 
+older txt14.txt 
+longer txt14.txt txt10.txt 
+classif txt14.txt txt08.txt 
+classifi txt14.txt txt20.txt txt26.txt 
+agnatha txt14.txt 
+subclass txt14.txt txt20.txt 
+cyclostomata txt14.txt 
+hagfish txt14.txt txt12.txt 
+ostracodermi txt14.txt 
+armour txt14.txt 
+† txt14.txt 
+chondrichthy txt14.txt txt20.txt 
+cartilagin txt14.txt txt20.txt txt12.txt 
+elasmobranchii txt14.txt txt20.txt 
+holocephali txt14.txt 
+chimaera txt14.txt 
+acanthodii txt14.txt 
+spini txt14.txt txt20.txt 
+boni txt14.txt txt29.txt txt12.txt txt16.txt 
+osteichthy txt14.txt 
+actinopterygii txt14.txt 
+sarcopterygii txt14.txt 
+fleshi txt14.txt 
+scheme txt14.txt 
+encount txt14.txt 
+non-specialist txt14.txt 
+given txt14.txt txt07.txt 
+rise txt14.txt 
+success txt14.txt 
+ancestr txt14.txt txt06.txt 
+acanthodiian txt14.txt 
+arriv txt14.txt 
+phylogenet txt14.txt txt28.txt 
+nomenclatur txt14.txt txt08.txt txt06.txt 
+detail txt14.txt txt29.txt 
+mane txt28.txt txt26.txt 
+limb txt28.txt txt29.txt txt12.txt 
+short-leg txt28.txt 
+bush txt28.txt txt29.txt 
+forest txt28.txt txt29.txt txt35.txt 
+tundra txt28.txt 
+savannah txt28.txt 
+desert txt28.txt txt34.txt txt29.txt 
+tropic txt28.txt txt23.txt 
+temper txt28.txt 
+part txt28.txt 
+past txt28.txt txt24.txt 
+morpholog txt28.txt txt15.txt 
+approach txt28.txt txt21.txt txt15.txt 
+enabl txt28.txt txt24.txt 
+investig txt28.txt txt32.txt 
+diverg txt28.txt txt07.txt txt03.txt txt09.txt 
+suppress txt28.txt 
+gene txt28.txt 
+hybrid txt28.txt 
+zone txt28.txt 
+person txt23.txt 
+oppos txt23.txt 
+sport txt23.txt txt24.txt txt26.txt 
+livestock txt23.txt 
+laboratori txt23.txt 
+valu txt23.txt txt15.txt 
+research txt23.txt 
+popular txt23.txt txt34.txt txt03.txt txt15.txt 
+loyal txt23.txt 
+play txt23.txt 
+owner txt23.txt 
+guardian txt23.txt 
+emot txt23.txt 
+walk txt23.txt txt29.txt 
+interact txt23.txt txt24.txt txt06.txt 
+companionship txt23.txt txt07.txt 
+elderli txt23.txt 
+adult txt23.txt txt09.txt txt24.txt 
+medic txt23.txt txt10.txt 
+approv txt23.txt 
+therapi txt23.txt txt24.txt 
+visit txt23.txt 
+util txt23.txt 
+train txt23.txt txt24.txt 
+handler txt23.txt txt26.txt 
+cognit txt23.txt 
+goal txt23.txt 
+rabbit txt23.txt 
+ferret txt23.txt 
+gerbil txt23.txt 
+hamster txt23.txt 
+chinchilla txt23.txt 
+rat txt23.txt 
+guinea txt23.txt 
+pig txt23.txt txt08.txt 
+avian txt23.txt 
+canari txt23.txt 
+parakeet txt23.txt 
+parrot txt23.txt 
+turtl txt23.txt txt21.txt 
+lizard txt23.txt 
+snake txt23.txt 
+frog txt23.txt txt08.txt txt35.txt 
+tarantula txt23.txt 
+hermit txt23.txt 
+scholar txt23.txt 
+rais txt23.txt txt12.txt 
+concern txt23.txt 
+pet-keep txt23.txt 
+regard txt23.txt txt08.txt 
+autonomi txt23.txt 
+objectif txt23.txt 
+nonhuman txt23.txt 
+plural txt21.txt 
+vivarium txt21.txt 
+transpar txt21.txt 
+water-dwel txt21.txt 
+displai txt21.txt 
+fishkeep txt21.txt txt12.txt 
+invertebr txt21.txt 
+term txt21.txt txt20.txt txt08.txt txt24.txt txt06.txt txt35.txt 
+coin txt21.txt 
+naturalist txt21.txt 
+philip txt21.txt 
+henri txt21.txt 
+goss txt21.txt 
+aqua txt21.txt 
+suffix txt21.txt 
+-arium txt21.txt 
+principl txt21.txt 
+1850 txt21.txt 
+chemist txt21.txt 
+robert txt21.txt 
+warington txt21.txt 
+ad txt21.txt 
+oxygen txt21.txt 
+support txt21.txt txt29.txt txt09.txt txt35.txt 
+craze txt21.txt 
+launch txt21.txt 
+victorian txt21.txt 
+england txt21.txt txt08.txt 
+creat txt21.txt txt29.txt txt24.txt 
+stock txt21.txt 
+zoo txt21.txt 
+1853 txt21.txt 
+manual txt21.txt 
+unveil txt21.txt 
+1854 txt21.txt 
+own txt21.txt txt06.txt 
+maintain txt21.txt txt29.txt 
+high-strength txt21.txt 
+acryl txt21.txt 
+cuboid txt21.txt 
+simpli txt21.txt txt06.txt 
+bowl-shap txt21.txt 
+bowl txt21.txt 
+immens txt21.txt 
+appropri txt21.txt 
+resid txt21.txt txt34.txt 
+indoor txt21.txt 
+barbel txt21.txt 
+guest txt21.txt 
+bed txt21.txt 
+marbl txt21.txt 
+introduct txt21.txt 
+pane txt21.txt 
+wall txt21.txt 
+view txt21.txt 
+1369 txt21.txt 
+hongwu txt21.txt 
+emperor txt21.txt 
+porcelain txt21.txt 
+tub txt21.txt 
+goldfish txt21.txt 
+leonhard txt21.txt 
+baldner txt21.txt 
+wrote txt21.txt 
+vogel- txt21.txt 
+fisch- txt21.txt 
+und txt21.txt 
+tierbuch txt21.txt 
+book txt21.txt txt12.txt 
+1666 txt21.txt 
+weather txt21.txt 
+loach txt21.txt 
+newt txt21.txt 
+listeni txt34.txt txt35.txt 
+pt txt34.txt 
+mi txt34.txt 
+r txt34.txt 
+ma txt34.txt 
+offici txt34.txt txt35.txt 
+republ txt34.txt txt06.txt 
+transcontinent txt34.txt 
+span txt34.txt txt15.txt 
+northeast txt34.txt 
+corner txt34.txt 
+southwest txt34.txt 
+sinai txt34.txt 
+peninsula txt34.txt 
+contigu txt34.txt 
+eurafrasian txt34.txt 
+territori txt34.txt txt35.txt 
+010 txt34.txt 
+408 txt34.txt 
+squar txt34.txt 
+390 txt34.txt 
+sq txt34.txt 
+li txt34.txt 
+nile txt34.txt 
+vallei txt34.txt 
+mediterranean txt34.txt 
+border txt34.txt txt35.txt 
+gaza txt34.txt 
+gulf txt34.txt txt35.txt 
+aqaba txt34.txt 
+sudan txt34.txt 
+west txt34.txt txt03.txt txt35.txt 
+longest txt34.txt 
+aris txt34.txt 
+tenth txt34.txt 
+millennium txt34.txt 
+bc txt34.txt txt03.txt txt24.txt txt06.txt 
+consid txt34.txt txt26.txt txt35.txt 
+cradl txt34.txt 
+civilis txt34.txt 
+experienc txt34.txt 
+write txt34.txt 
+urbanis txt34.txt 
+organis txt34.txt 
+icon txt34.txt 
+monument txt34.txt 
+giza txt34.txt 
+necropoli txt34.txt 
+sphinx txt34.txt 
+ruin txt34.txt 
+memphi txt34.txt 
+thebe txt34.txt 
+karnak txt34.txt 
+legaci txt34.txt 
+focu txt34.txt 
+archaeolog txt34.txt 
+rich txt34.txt txt35.txt 
+heritag txt34.txt txt35.txt 
+integr txt34.txt 
+ident txt34.txt 
+endur txt34.txt txt09.txt txt24.txt 
+assimil txt34.txt 
+foreign txt34.txt 
+greek txt34.txt txt06.txt 
+persian txt34.txt 
+ottoman txt34.txt 
+christianis txt34.txt 
+era txt34.txt 
+islamis txt34.txt 
+conquest txt34.txt 
+7th txt34.txt 
+89 txt34.txt 
+third-most txt34.txt 
+nigeria txt34.txt 
+ethiopia txt34.txt 
+fifteenth-most txt34.txt 
+near txt34.txt 
+bank txt34.txt 
+area txt34.txt txt06.txt txt35.txt 
+arabl txt34.txt 
+sahara txt34.txt 
+constitut txt34.txt 
+spars txt34.txt 
+half txt34.txt txt16.txt txt10.txt 
+urban txt34.txt txt35.txt 
+dens txt34.txt txt29.txt 
+centr txt34.txt 
+cairo txt34.txt 
+alexandria txt34.txt 
+citi txt34.txt txt35.txt 
+delta txt34.txt txt35.txt 
+mountain txt29.txt txt12.txt 
+grassland txt29.txt 
+littl txt29.txt 
+cm txt29.txt txt09.txt txt25.txt txt15.txt txt26.txt 
+weigh txt29.txt txt09.txt txt25.txt 
+0 txt29.txt txt08.txt txt09.txt txt15.txt 
+kg txt29.txt txt09.txt txt25.txt 
+lb txt29.txt txt09.txt txt25.txt 
+79 txt29.txt 
+174 txt29.txt 
+arbor txt29.txt 
+– txt29.txt 
+raccoon txt29.txt 
+habitu txt29.txt 
+climb txt29.txt 
+basic txt29.txt 
+exemplifi txt29.txt 
+grei txt29.txt 
+consider txt29.txt 
+cani txt29.txt txt07.txt txt08.txt txt09.txt 
+lupu txt29.txt txt07.txt txt08.txt txt09.txt 
+lith txt29.txt 
+chase txt29.txt txt25.txt 
+season txt29.txt 
+portion txt29.txt 
+skull txt29.txt 
+elong txt29.txt txt16.txt txt15.txt 
+zygomat txt29.txt 
+arch txt29.txt 
+transvers txt29.txt 
+lambdoid txt29.txt 
+ridg txt29.txt 
+cranium txt29.txt 
+sagitt txt29.txt 
+crest txt29.txt 
+run txt29.txt txt10.txt txt24.txt 
+orbit txt29.txt txt16.txt 
+auditori txt29.txt 
+bulla txt29.txt 
+smooth txt29.txt 
+round txt29.txt 
+digitigrad txt29.txt 
+toe txt29.txt 
+tip txt29.txt 
+nose txt29.txt 
+nake txt29.txt 
+pad txt29.txt 
+more-or-less txt29.txt 
+three-lob txt29.txt 
+digit txt29.txt txt12.txt 
+hair txt29.txt txt24.txt 
+arctic txt29.txt txt09.txt 
+foot txt29.txt 
+four-to txt29.txt 
+hunt txt29.txt txt07.txt txt08.txt txt12.txt 
+lycaon txt29.txt 
+pictu txt29.txt 
+forefeet txt29.txt 
+pollex txt29.txt 
+thumb txt29.txt 
+doe txt29.txt 
+hind txt29.txt 
+fifth txt29.txt 
+vestigi txt29.txt 
+dewclaw txt29.txt 
+anatom txt29.txt 
+connect txt29.txt 
+slightli txt29.txt txt15.txt 
+curv txt29.txt 
+nail txt29.txt 
+non-retractil txt29.txt 
+blunt txt29.txt 
+peni txt29.txt 
+baculum txt29.txt 
+bulbu txt29.txt 
+glandi txt29.txt 
+copulatori txt29.txt 
+tie txt29.txt 
+lock txt29.txt 
+hour txt29.txt 
+born txt29.txt txt25.txt 
+ligament txt29.txt 
+analog txt29.txt 
+nuchal txt29.txt 
+postur txt29.txt 
+head txt29.txt txt20.txt txt25.txt txt26.txt 
+neck txt29.txt txt25.txt txt26.txt 
+muscl txt29.txt txt09.txt txt16.txt 
+exert txt29.txt 
+energi txt29.txt 
+distanc txt29.txt 
+trail txt29.txt 
+skelet txt29.txt 
+aelurodon txt29.txt 
+lack txt29.txt txt12.txt 
+dentit txt29.txt 
+eurasian txt29.txt 
+42 txt29.txt txt09.txt txt10.txt txt06.txt 
+dental txt29.txt txt10.txt 
+formula txt29.txt 
+upper txt29.txt txt16.txt 
+molar txt29.txt 
+dhole txt29.txt txt07.txt 
+bat-ear txt29.txt 
+on txt29.txt 
+carnivora txt29.txt 
+fourth txt29.txt 
+premolar txt29.txt 
+carnassi txt29.txt 
+respect txt29.txt 
+marrow txt29.txt 
+decidu txt29.txt 
+babi txt29.txt 
+familiari txt07.txt txt08.txt txt09.txt 
+millennia txt07.txt txt09.txt 
+sensori txt07.txt txt09.txt 
+manmad txt07.txt 
+variant txt07.txt 
+various txt07.txt 
+suppos txt07.txt 
+undertaken txt07.txt 
+wolf-lik txt07.txt 
+uniqu txt07.txt 
+attun txt07.txt 
+thrive txt07.txt 
+starch-rich txt07.txt 
+diet txt07.txt 
+inadequ txt07.txt 
+role txt07.txt txt08.txt txt12.txt 
+herd txt07.txt 
+pull txt07.txt 
+load txt07.txt 
+assist txt07.txt 
+polic txt07.txt txt24.txt 
+handicap txt07.txt 
+nicknam txt07.txt 
+man txt07.txt 
+best txt07.txt 
+friend txt07.txt 
+sourc txt07.txt txt06.txt 
+meat txt07.txt txt24.txt 
+character txt20.txt 
+slit txt20.txt 
+side txt20.txt 
+pector txt20.txt 
+fuse txt20.txt txt09.txt 
+selachimorpha txt20.txt 
+selachii txt20.txt 
+outsid txt20.txt txt15.txt 
+xenacanthu txt20.txt 
+holocephalid txt20.txt 
+eugenedontidan txt20.txt 
+broader txt20.txt 
+definit txt20.txt txt12.txt 
+acanthodian txt20.txt 
+assemblag txt20.txt 
+diversifi txt20.txt 
+dwarf txt20.txt 
+lanternshark txt20.txt 
+etmopteru txt20.txt 
+perryi txt20.txt 
+rhincodon txt20.txt 
+typu txt20.txt 
+bull txt20.txt 
+seawat txt20.txt 
+dermal txt20.txt 
+denticl txt20.txt 
+skin txt20.txt 
+damag txt20.txt 
+fluid txt20.txt 
+dynam txt20.txt 
+well-known txt20.txt 
+tiger txt20.txt 
+blue txt20.txt 
+hammerhead txt20.txt 
+apex txt20.txt 
+predators—organ txt20.txt 
+underwat txt20.txt 
+chain txt20.txt 
+threaten txt20.txt 
+varieti txt08.txt txt16.txt txt24.txt 
+dogg txt08.txt 
+docga txt08.txt 
+proto-german txt08.txt 
+*dukkon txt08.txt 
+finger-docc txt08.txt 
+finger-muscl txt08.txt 
+petnam txt08.txt 
+diminut txt08.txt 
+-ga txt08.txt 
+frogga txt08.txt 
+picga txt08.txt 
+stagga txt08.txt 
+stag txt08.txt 
+wicga txt08.txt 
+beetl txt08.txt 
+worm txt08.txt 
+ultim txt08.txt txt06.txt 
+layer txt08.txt 
+proto-indo-european txt08.txt 
+vocabulari txt08.txt txt24.txt 
+14th-centuri txt08.txt 
+hound txt08.txt 
+hund txt08.txt 
+canin txt08.txt 
+subtyp txt08.txt 
+mastiff txt08.txt txt09.txt 
+categori txt08.txt txt24.txt 
+begun txt08.txt 
+*kwon- txt08.txt 
+circl txt08.txt 
+bitch txt08.txt 
+bicch txt08.txt 
+bicc txt08.txt 
+bikkja txt08.txt 
+father txt08.txt 
+sire txt08.txt txt06.txt 
+dam txt08.txt txt06.txt 
+pup txt08.txt 
+poupé txt08.txt 
+whelp txt08.txt 
+hwelp txt08.txt 
+1753 txt08.txt 
+carl txt08.txt 
+linnaeu txt08.txt 
+list txt08.txt 
+quadrup txt08.txt 
+vulp txt08.txt 
+edit txt08.txt 
+drop txt08.txt 
+greatli txt08.txt txt25.txt 
+1758 txt08.txt 
+alongsid txt08.txt 
+synonym txt08.txt 
+aegyptiu txt08.txt 
+hairless txt08.txt 
+aquaticu txt08.txt 
+mustelinu txt08.txt 
+liter txt08.txt 
+badger txt08.txt 
+expert txt08.txt 
+domesticu txt08.txt 
+1993 txt08.txt 
+mitochondri txt08.txt 
+dna txt08.txt 
+mtdna txt08.txt 
+analysi txt08.txt 
+2% txt08.txt 
+sequenc txt08.txt txt09.txt 
+comparison txt08.txt 
+closest txt08.txt 
+4% txt08.txt 
+reclassifi txt08.txt 
+subspeci txt08.txt txt24.txt txt06.txt 
+name txt08.txt txt25.txt 
+sub-speci txt08.txt 
+genom txt08.txt txt09.txt 
+question txt08.txt 
+speciat txt08.txt txt15.txt 
+vener txt03.txt 
+2007 txt03.txt 
+conclud txt03.txt 
+descend txt03.txt txt06.txt 
+feli txt03.txt 
+silvestri txt03.txt 
+70 txt03.txt 
+proclaim txt03.txt 
+intern txt03.txt txt26.txt 
+progress txt03.txt 
+breeder txt03.txt 
+allianc txt03.txt 
+ipcba txt03.txt 
+73 txt03.txt 
+tica txt03.txt 
+cfa txt03.txt 
+fancier txt03.txt txt06.txt 
+44 txt03.txt 
+felin txt03.txt 
+fife txt03.txt 
+43 txt03.txt txt25.txt txt10.txt 
+gill-bear txt12.txt 
+craniat txt12.txt 
+ectotherm txt12.txt 
+cold-blood txt12.txt 
+tuna txt12.txt 
+core txt12.txt 
+nearli txt12.txt txt09.txt 
+stream txt12.txt 
+g txt12.txt txt10.txt txt15.txt 
+char txt12.txt 
+gudgeon txt12.txt 
+abyss txt12.txt 
+hadal txt12.txt 
+deepest txt12.txt 
+gulper txt12.txt 
+anglerfish txt12.txt 
+describ txt12.txt txt25.txt txt15.txt 
+resourc txt12.txt 
+commerci txt12.txt 
+subsist txt12.txt 
+fisher txt12.txt 
+fisheri txt12.txt 
+farm txt12.txt 
+pond txt12.txt 
+aquacultur txt12.txt 
+caught txt12.txt 
+recreat txt12.txt txt24.txt 
+serv txt12.txt 
+deiti txt12.txt 
+religi txt12.txt 
+subject txt12.txt 
+art txt12.txt 
+movi txt12.txt 
+artefact txt32.txt 
+item txt32.txt txt16.txt 
+histor txt32.txt txt24.txt 
+scientif txt32.txt txt15.txt 
+procedur txt32.txt 
+taymyr txt09.txt 
+000–40 txt09.txt 
+impli txt09.txt 
+hunter-gather txt09.txt 
+agriculturist txt09.txt 
+admixtur txt09.txt 
+taimyr txt09.txt 
+variat txt09.txt 
+scaveng txt09.txt txt10.txt 
+wrist txt09.txt 
+cardiovascular txt09.txt 
+sprint txt09.txt 
+catch txt09.txt 
+tear txt09.txt 
+variabl txt09.txt 
+height txt09.txt txt25.txt txt26.txt 
+yorkshir txt09.txt 
+terrier txt09.txt txt10.txt 
+stood txt09.txt txt25.txt 
+shoulder txt09.txt 
+head-and-bodi txt09.txt 
+gram txt09.txt 
+oz txt09.txt 
+155 txt09.txt 
+343 txt09.txt 
+250 txt09.txt 
+98 txt09.txt txt15.txt 
+snout txt09.txt 
+tallest txt09.txt 
+dane txt09.txt 
+106 txt09.txt 
+hear txt09.txt 
+smell txt09.txt 
+tast txt09.txt 
+sensit txt09.txt 
+magnet txt09.txt 
+field txt09.txt 
+kei txt16.txt 
+fusion txt16.txt 
+pharyng txt16.txt 
+tooth-bear txt16.txt 
+second txt16.txt 
+divis txt16.txt txt26.txt 
+labour txt16.txt 
+mandibl txt16.txt 
+effici txt16.txt 
+specialis txt16.txt 
+feeder txt16.txt 
+assum txt16.txt 
+compress txt16.txt txt15.txt 
+disc-shap txt16.txt 
+symphysodon txt16.txt txt15.txt 
+hero txt16.txt 
+pterophyllum txt16.txt txt15.txt 
+uaru txt16.txt 
+cylindr txt16.txt txt15.txt 
+crenicichla txt16.txt txt15.txt 
+biotecu txt16.txt 
+featur txt16.txt txt26.txt 
+labroidei txt16.txt txt15.txt 
+nostril txt16.txt 
+forehead txt16.txt txt26.txt 
+shelf txt16.txt 
+line txt16.txt 
+section txt16.txt 
+flank txt16.txt 
+midlin txt16.txt 
+halfwai txt16.txt 
+teleogramma txt16.txt txt15.txt 
+gobiocichla txt16.txt txt15.txt 
+otolith txt16.txt 
+intestin txt16.txt 
+left-sid txt16.txt 
+exit txt16.txt 
+hors txt25.txt txt24.txt txt26.txt 
+measur txt25.txt txt26.txt 
+highest txt25.txt 
+wither txt25.txt txt26.txt 
+meet txt25.txt 
+stabl txt25.txt 
+anatomi txt25.txt txt24.txt 
+unlik txt25.txt 
+english-speak txt25.txt 
+inch txt25.txt txt26.txt 
+101 txt25.txt 
+mm txt25.txt 
+express txt25.txt 
+abbrevi txt25.txt 
+h txt25.txt txt26.txt 
+hh txt25.txt 
+plu txt25.txt 
+62 txt25.txt 
+157 txt25.txt 
+brown txt25.txt 
+pastur txt25.txt 
+full-siz txt25.txt 
+miniatur txt25.txt txt26.txt 
+nutrit txt25.txt 
+56 txt25.txt txt26.txt 
+64 txt25.txt 
+142 txt25.txt txt26.txt 
+163 txt25.txt 
+380 txt25.txt 
+550 txt25.txt 
+kilogram txt25.txt 
+840 txt25.txt 
+210 txt25.txt 
+start txt25.txt 
+tall txt25.txt 
+173 txt25.txt 
+heavi txt25.txt txt24.txt 
+draft txt25.txt txt24.txt 
+72 txt25.txt 
+183 txt25.txt 
+700 txt25.txt 
+540 txt25.txt 
+200 txt25.txt 
+shire txt25.txt 
+mammoth txt25.txt 
+1848 txt25.txt 
+86 txt25.txt 
+holder txt25.txt 
+thumbelina txt25.txt 
+dwarfism txt25.txt 
+57 txt25.txt txt26.txt 
+suscept txt10.txt 
+diseas txt10.txt 
+ailment txt10.txt 
+poison txt10.txt 
+vaccin txt10.txt 
+begonia txt10.txt 
+poinsettia txt10.txt 
+alo txt10.txt 
+vera txt10.txt 
+claim txt10.txt 
+toxic txt10.txt 
+untru txt10.txt 
+prone txt10.txt 
+elbow txt10.txt 
+hip txt10.txt 
+dysplasia txt10.txt 
+deaf txt10.txt 
+pulmon txt10.txt 
+stenosi txt10.txt 
+cleft txt10.txt 
+palat txt10.txt 
+trick txt10.txt 
+knee txt10.txt 
+particularli txt10.txt txt15.txt txt24.txt 
+pyometra txt10.txt 
+unspai txt10.txt 
+bloat txt10.txt 
+deep-chest txt10.txt 
+acut txt10.txt 
+flea txt10.txt 
+tick txt10.txt 
+mite txt10.txt 
+hookworm txt10.txt 
+tapeworm txt10.txt 
+roundworm txt10.txt 
+heartworm txt10.txt 
+chocol txt10.txt 
+solid txt10.txt 
+theobromin txt10.txt 
+onion txt10.txt 
+garlic txt10.txt 
+thiosulph txt10.txt 
+sulfoxid txt10.txt 
+disulfid txt10.txt 
+grape txt10.txt 
+raisin txt10.txt 
+macadamia txt10.txt 
+nut txt10.txt 
+xylitol txt10.txt 
+potenti txt10.txt 
+materi txt10.txt 
+nicotin txt10.txt 
+tobacco txt10.txt 
+danger txt10.txt 
+garbag txt10.txt 
+ashtrai txt10.txt 
+eat txt10.txt 
+cigar txt10.txt 
+cigarett txt10.txt 
+vomit txt10.txt 
+amount txt10.txt 
+butt txt10.txt 
+diarrhea txt10.txt 
+abdomin txt10.txt 
+pain txt10.txt 
+loss txt10.txt 
+coordin txt10.txt 
+collaps txt10.txt 
+death txt10.txt 
+chemic txt10.txt 
+slow txt10.txt txt24.txt 
+fatal txt10.txt 
+vulner txt10.txt 
+diabet txt10.txt 
+epilepsi txt10.txt 
+cancer txt10.txt 
+hypothyroid txt10.txt 
+arthriti txt10.txt 
+lifespan txt10.txt txt24.txt 
+mixed-bre txt10.txt 
+faster txt10.txt 
+pure-br txt10.txt 
+parent txt10.txt 
+heterosi txt10.txt 
+mix txt10.txt txt06.txt 
+pure txt10.txt 
+body-weight txt10.txt 
+correl txt10.txt 
+longev txt10.txt 
+heavier txt10.txt txt26.txt 
+shorter txt10.txt txt26.txt 
+median txt10.txt 
+aliv txt10.txt 
+41 txt10.txt txt06.txt 
+kl txt15.txt 
+dz txt15.txt 
+cichlida txt15.txt 
+perciform txt15.txt 
+subord txt15.txt 
+wrass txt15.txt 
+labrida txt15.txt 
+damselfish txt15.txt 
+surfperch txt15.txt 
+embiotocida txt15.txt 
+650 txt15.txt 
+undescrib txt15.txt 
+unknown txt15.txt txt06.txt 
+neolamprologu txt15.txt 
+multifasciatu txt15.txt 
+boulengerochromi txt15.txt 
+cichla txt15.txt 
+strongli txt15.txt txt35.txt 
+altolamprologu txt15.txt 
+julidochromi txt15.txt 
+teleocichla txt15.txt 
+medium txt15.txt 
+ovat txt15.txt 
+sunfish txt15.txt 
+game txt15.txt 
+angelfish txt15.txt 
+oscar txt15.txt 
+discu txt15.txt 
+endang txt15.txt txt24.txt 
+haplochromin txt15.txt 
+tanganyika txt15.txt 
+victoria txt15.txt 
+edward txt15.txt 
+nuisanc txt15.txt 
+redneck txt15.txt 
+equu txt24.txt 
+feru txt24.txt 
+caballu txt24.txt 
+odd-to txt24.txt 
+belong txt24.txt 
+taxonom txt24.txt txt26.txt 
+equida txt24.txt 
+55 txt24.txt 
+multi-to txt24.txt 
+hyracotherium txt24.txt 
+single-to txt24.txt 
+4000 txt24.txt 
+3000 txt24.txt 
+przewalski txt24.txt 
+separ txt24.txt 
+equine-rel txt24.txt 
+stage txt24.txt txt06.txt 
+locomot txt24.txt 
+speed txt24.txt 
+well-develop txt24.txt 
+balanc txt24.txt 
+fight-or-flight txt24.txt 
+flee txt24.txt 
+abl txt24.txt 
+ly txt24.txt 
+mare txt24.txt 
+foal txt24.txt 
+shortli txt24.txt 
+saddl txt24.txt 
+har txt24.txt 
+loos txt24.txt 
+tempera txt24.txt txt26.txt 
+spirit txt24.txt 
+hot txt24.txt 
+blood txt24.txt 
+poni txt24.txt txt26.txt 
+warmblood txt24.txt 
+focus txt24.txt 
+purpos txt24.txt txt26.txt 
+competit txt24.txt txt26.txt 
+non-competit txt24.txt 
+pursuit txt24.txt 
+entertain txt24.txt 
+warfar txt24.txt 
+techniqu txt24.txt 
+milk txt24.txt 
+hide txt24.txt 
+pharmaceut txt24.txt 
+extract txt24.txt 
+urin txt24.txt 
+pregnant txt24.txt 
+attent txt24.txt 
+specialist txt24.txt 
+veterinarian txt24.txt 
+farrier txt24.txt 
+basi txt26.txt 
+disposit txt26.txt 
+phenotyp txt26.txt 
+conform txt26.txt 
+147 txt26.txt 
+equestrian txt26.txt 
+cutoff txt26.txt 
+145 txt26.txt 
+metric txt26.txt 
+defin txt26.txt 
+148 txt26.txt 
+shoe txt26.txt 
+149 txt26.txt 
+2½ txt26.txt 
+criterion txt26.txt 
+registri txt26.txt 
+convers txt26.txt 
+thicker txt26.txt 
+coat txt26.txt txt06.txt 
+proportion txt26.txt 
+wider txt26.txt 
+barrel txt26.txt 
+short txt26.txt 
+broad txt26.txt 
+calmer txt26.txt 
+equin txt26.txt 
+intellig txt26.txt 
+shetland txt26.txt 
+102 txt26.txt 
+falabella txt26.txt 
+taller txt26.txt 
+76 txt26.txt 
+catt txt06.txt 
+loanword txt06.txt 
+languag txt06.txt txt35.txt 
+cattu txt06.txt 
+byzantin txt06.txt 
+tta txt06.txt 
+portugues txt06.txt 
+gato txt06.txt 
+chat txt06.txt 
+katz txt06.txt 
+lithuanian txt06.txt 
+kate txt06.txt 
+church txt06.txt 
+slavon txt06.txt 
+kotka txt06.txt 
+afroasiat txt06.txt 
+presum txt06.txt 
+caut txt06.txt 
+feminin txt06.txt 
+cau txt06.txt 
+cognat txt06.txt 
+puss txt06.txt 
+pussycat txt06.txt 
+attest txt06.txt 
+poe txt06.txt 
+low txt06.txt 
+puuskatt txt06.txt 
+swedish txt06.txt 
+kattepu txt06.txt 
+norwegian txt06.txt 
+pu txt06.txt 
+pusekatt txt06.txt 
+puiž txt06.txt 
+irish txt06.txt 
+puiscín txt06.txt 
+arisen txt06.txt 
+sound txt06.txt 
+clowder txt06.txt 
+glare txt06.txt 
+tom txt06.txt 
+tomcat txt06.txt 
+gib txt06.txt 
+unalt txt06.txt 
+queen txt06.txt 
+prepubesc txt06.txt 
+juvenil txt06.txt 
+kitten txt06.txt 
+rare txt06.txt 
+immatur txt06.txt 
+molli txt06.txt 
+progenitor txt06.txt 
+interchang txt06.txt 
+now-obsolet txt06.txt 
+catl txt06.txt 
+ancestri txt06.txt 
+purebr txt06.txt 
+unrecord txt06.txt 
+short-hair txt06.txt 
+long-hair txt06.txt 
+random-br txt06.txt 
+moggi txt06.txt 
+chiefli txt06.txt 
+borrow txt06.txt 
+mongrel txt06.txt 
+mutt-cat txt06.txt 
+interbre txt06.txt 
+intermedi txt06.txt 
+semifer txt06.txt 
+outdoor txt06.txt 
+friendli txt06.txt 
+fed txt06.txt 
+habit txt06.txt 
+rubbish txt06.txt 
+wari txt06.txt 
+louisiana txt35.txt 
+lu txt35.txt 
+zi txt35.txt 
+æn txt35.txt 
+État txt35.txt 
+louisian txt35.txt 
+lwizjan txt35.txt 
+listen txt35.txt 
+creol txt35.txt 
+léta txt35.txt 
+la txt35.txt 
+lwizyàn txt35.txt 
+31st txt35.txt 
+25th txt35.txt 
+capit txt35.txt 
+baton txt35.txt 
+roug txt35.txt 
+orlean txt35.txt 
+parish txt35.txt 
+equival txt35.txt 
+counti txt35.txt 
+plaquemin txt35.txt 
+arkansa txt35.txt 
+mississippi txt35.txt 
+wash txt35.txt 
+enorm txt35.txt 
+biota txt35.txt 
+ibi txt35.txt 
+egret txt35.txt 
+sturgeon txt35.txt 
+paddlefish txt35.txt 
+elev txt35.txt 
+landscap txt35.txt 
+longleaf txt35.txt 
+pine txt35.txt 
+wet txt35.txt 
+savanna txt35.txt 
+exception txt35.txt 
+orchid txt35.txt 
+multicultur txt35.txt 
+multilingu txt35.txt 
+mixtur txt35.txt 
+18th-centuri txt35.txt 
+1803 txt35.txt 
+coloni txt35.txt 
+brief txt35.txt 
+colonist txt35.txt 
+numer txt35.txt 
+slave txt35.txt 
+18th txt35.txt 
+concentr txt35.txt 
+post-civil txt35.txt 
+anglo-american txt35.txt 
+pressur txt35.txt 
+anglic txt35.txt 
+1921 txt35.txt 
+receiv txt35.txt 
+recognit txt35.txt 

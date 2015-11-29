@@ -50,7 +50,18 @@ void removeNewLine(string &line) {
  * Creates and writes the index file.
  */
 void createIndexFile() {
-
+	ofstream myfile;
+	myfile.open(INDEX_FILE);
+	int size = indexItems.size();
+	for (int i = 0; i < size; i++) {
+		myfile << indexItems[i].word << " ";
+		int size2 = indexItems[i].docs.size();
+		for (int j = 0; j < size2; j++) {
+			myfile << indexItems[i].docs[j] << " ";
+		}
+		myfile << "\n";
+	}
+	myfile.close();
 }
 
 /**
@@ -166,24 +177,52 @@ void buildIndex() {
  * Loads the index file.
  */
 void loadIndex() {
-
+	string line;
+	ifstream myfile(INDEX_FILE);
+	if (myfile.is_open()) {
+		while (getline(myfile, line)) {
+			if (!line.empty()) {
+				istringstream iss(line);
+				string word;
+				iss >> word;
+				indexItem idxItm;
+				idxItm.word = word;
+				string doc;
+				do {
+					iss >> doc;
+					idxItm.docs.push_back(doc);
+				} while (iss);
+				indexItems.push_back(idxItm);
+			}
+		}
+		myfile.close();
+	}
 }
 
-int main() {
-	// if index file already exists
-		//loadIndex();
-	//else
-		buildIndex();
-
+void print() {
 	int size = indexItems.size();
 	for (int i = 0; i < size; i++) {
-		cout << indexItems[i].word << " = ";
+		cout << indexItems[i].word << " : ";
 		int size2 = indexItems[i].docs.size();
 		for (int j = 0; j < size2; j++) {
 			cout << indexItems[i].docs[j] << " ";
 		}
 		cout << endl << endl;
 	}
+}
+
+int main() {
+	ifstream file(INDEX_FILE);
+	// if index file already exists
+	if (file) {
+		// load from file
+		loadIndex();
+	} else {
+		// build index
+		buildIndex();
+	}
+
+	print();
 
 	return 0;
 }
