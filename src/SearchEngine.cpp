@@ -14,6 +14,7 @@ using namespace std;
 const char DIR_TEXTS[] = "./texts_project/";
 const char STOP_WORDS[] = "./stop_words.txt";
 const char INDEX_FILE[] = "./index_file.txt";
+const int MAX_RESULTS = 10;
 
 // Vector for the stop words
 vector<string> stop_words;
@@ -25,6 +26,12 @@ struct indexItem {
 };
 // vector of index items
 vector<indexItem> indexItems;
+
+// struct for associating a doc with the number of matches in a query
+struct docsOrder {
+	string doc;
+	int number;
+};
 
 void toLowercase(string &s) {
 	transform(s.begin(), s.end(), s.begin(), ::tolower);
@@ -44,6 +51,21 @@ void removeNewLine(string &line) {
 	if (*line.rbegin() == '\n') {
 		line.erase(line.length() - 1);
 	}
+}
+
+/**
+ * Find index by word.
+ * @param string word
+ * @return int
+ */
+int findIndex(string word) {
+	int size = indexItems.size();
+	for (int i = 0; i < size; i++) {
+		if (indexItems[i].word == word) {
+			return i;
+		}
+	}
+	return -1;
 }
 
 /**
@@ -70,14 +92,8 @@ void createIndexFile() {
  * @param string s
  */
 void indexing(string file_name, string s) {
-	int size = indexItems.size();
-	int i;
-	for (i = 0; i < size; i++) {
-		if (indexItems[i].word == s) {
-			break;
-		}
-	}
-	if (i == size) {
+	int i = findIndex(s);
+	if (i < 0) {
 		// if the word is not in the index, add it
 		indexItem idxItm;
 		idxItm.word = s;
@@ -199,6 +215,74 @@ void loadIndex() {
 	}
 }
 
+/**
+ * Find the documents where the words in the query appear.
+ * @param string query
+ * @return string docs
+ */
+string search(string query) {
+	istringstream iss(query);
+	string word;
+	vector<docsOrder> docsOrders;
+
+	int count = 0;
+	do {
+		iss >> word;
+		// if it is a stop word, move on
+		if (word.empty() || find(stop_words.begin(), stop_words.end(), word) != stop_words.end()) {
+			continue;
+		}
+		stemming(word);
+		// search for the word in the index
+		int k = findIndex(word);
+		if (k < 0) {
+			continue;
+		}
+		// for each doc where the word appears
+		for (int i = 0; i < indexItems[k].docs.size() && count < MAX_RESULTS; i++) {
+			// store the docs that matched the word
+			int j;
+			for (j = 0; j < docsOrders.size(); j++) {
+				if (docsOrders[j].doc == indexItems[k].docs[i]) {
+					docsOrders[j].number += 1;
+					break;
+				}
+			}
+			if (j == docsOrders.size()) {
+				docsOrder docOrder;
+				docOrder.doc = indexItems[k].docs[i];
+				docOrder.number = 1;
+				docsOrders.push_back(docOrder);
+				count++;
+			}
+		}
+	} while (iss && count < MAX_RESULTS);
+
+	// return message if nothing was found
+	if (docsOrders.empty()) {
+		return "Sorry, we could not find any relevant document to your query";
+	}
+
+	// ordering
+	for (int i = 1; i < docsOrders.size() - 1; i++) {
+		int j = i;
+		while (j > 0 && docsOrders[j-1].number < docsOrders[j].number) {
+			iter_swap(docsOrders.begin()+j, docsOrders.begin()+j-1);
+			j--;
+		}
+	}
+
+	// build result
+	string docs;
+	int i;
+	for (i = 0; i < docsOrders.size() - 1; i++) {
+		docs += docsOrders[i].doc + ",";
+	}
+	docs += docsOrders[i].doc;
+
+	return docs;
+}
+
 void print() {
 	int size = indexItems.size();
 	for (int i = 0; i < size; i++) {
@@ -222,7 +306,13 @@ int main() {
 		buildIndex();
 	}
 
-	print();
+	//print();
+
+	cout << "Type your query: " << endl;
+	string query;
+	getline(cin, query);
+	string res = search(query);
+	cout << res << endl;
 
 	return 0;
 }
