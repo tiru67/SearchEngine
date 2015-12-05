@@ -55,16 +55,26 @@ static int isPreceededByVowel(int i){
 	return FALSE;
 }
 
+static int isNonV
+
 static int isShortVowelAt(int p){
 	 // if (out_grouping_b(b, g_v_WXY, 89, 121, 0)) return 0;
 	 //   if (in_grouping_b(b, g_v, 97, 121, 0)) return 0;
 	 //   if (out_grouping_b(b, g_v, 97, 121, 0)) return 0;
 
-	  if(b[p]=='w' || b[p]=='x' || b[p]=='y'){
-		  return FALSE;
-	  }
-	    return TRUE;
+	 for(int q=p; q<=k; q++){
+
+
+		 if(isVowel(q) && ){
+
+		 }
+	 }
+
+
 }
+
+
+
 
 
 /* ends(s) is TRUE <=> k0,...k ends with the string s. */
