@@ -1,3 +1,5 @@
+#define M_LOG2E 1.44269504088896340736 //log2(e)
+
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
@@ -13,22 +15,17 @@ using namespace std;
 
 // constants
 const char DIR_TEXTS[] = "./texts_project/";
+//const char DIR_TEXTS[] = "./Test-Data/";
 const char STOP_WORDS[] = "./stop_words.txt";
 const char INDEX_FILE[] = "./index_file.txt";
 const int MAX_RESULTS = 10;
 
+inline double log2(double x){
+    return  log(x) * M_LOG2E;
+}
+
 // Vector for the stop words
 vector<string> stopWords;
-
-// struct for relating a doc with a word
-struct Document {
-	string name; // doc's name
-	int totalWords; // total number of words in the doc
-	Document() {
-		name.empty();
-		totalWords = 0;
-	}
-};
 
 // struct for relating a doc with a word
 struct DocumentWord {
@@ -49,12 +46,39 @@ struct Word {
 	string word;
 	vector<DocumentWord> docs;
 	double idf; // inverse document frequency
+	double tf_idf;
 	Word() {
 		word.empty();
 		docs.empty();
 		idf = 0;
+		tf_idf=0;
 	}
 };
+// struct for relating a doc with a word
+struct Document {
+	string name; // doc's name
+	int totalWords; // total number of words in the doc
+	Document() {
+		name.empty();
+		totalWords = 0;
+	}
+};
+
+//To capture the document name and distance.
+struct DocumentDistance{
+	string docName;
+	double distance;
+
+	 bool operator > (const DocumentDistance& str) const
+	    {
+	        return (distance > str.distance);
+	    }
+};
+
+bool compareDistances(DocumentDistance a, DocumentDistance b){
+
+	return (a.distance < b.distance);
+}
 
 // vector of documents
 vector<Document> docs;
@@ -62,6 +86,7 @@ vector<Document> docs;
 vector<Word> indexItems;
 
 // struct for associating a doc with the number of matches in a query
+
 struct docsOrder {
 	string doc;
 	int number;
@@ -112,6 +137,19 @@ int findIndexDocument(Word item, string name) {
 	int size = item.docs.size();
 	for (int i = 0; i < size; i++) {
 		if (item.docs[i].doc == name) {
+			return i;
+		}
+	}
+	return -1;
+}
+
+/**
+ * Find index of doc in docs when doc name is given*/
+
+int findDocumentIndexByName(string docName) {
+	int size = docs.size();
+	for (int i = 0; i < size; i++) {
+		if (docs[i].name == docName) {
 			return i;
 		}
 	}
@@ -285,13 +323,18 @@ void calculateTF_IDF() {
 	int size = indexItems.size();
 	for (int i = 0; i < size; i++) {
 		int docsSize = indexItems[i].docs.size();
-		double idf = log10(numDocuments / static_cast<double>(docsSize));
-		indexItems[i].idf = idf;
+		double idf;
+		if(docsSize!=0){
+			idf = log2(numDocuments / static_cast<double>(docsSize));
+		}else{
+			idf =0;
+		}
 		for (int j = 0; j < docsSize; j++) {
 			indexItems[i].docs[j].tf_idf = idf * indexItems[i].docs[j].tf;
 		}
 	}
 }
+
 
 /**
  * Builds the index file.
@@ -327,26 +370,89 @@ void loadIndex() {
 					docWord.doc = doc;
 					docWord.tf_idf = tf_idf;
 					idxItm.docs.push_back(docWord);
+
+					//check if the doc is already added
+										bool isDocAdd = false;
+										for(int j=0; j<docs.size();j++){
+											if(docs[j].name==doc){
+												isDocAdd =  true;
+												break;
+											}
+										}
+
+										if(!isDocAdd){
+											Document documnet;
+											documnet.name = doc;
+											docs.push_back(documnet);
+										}
+
 				} while (iss);
 				idxItm.docs.pop_back(); // Idk why it is inserting the last element twice, so...
 				indexItems.push_back(idxItm);
+
+				//load available docs
+				for(int i=0; i<indexItems.size();i++){
+
+
+				}
+
+
 			}
 		}
 		myfile.close();
 	}
 }
 
+vector<DocumentDistance> eclideanDistance(double query_idf, string queryWord){
+	vector<DocumentDistance> ditanceArray;
+	for (int i=0;i<docs.size();i++){
+		double sqrSum = 0;
+		string docName = docs[i].name;
+		//iterate through indexItems to find the vector of this document.
+		for(int d=0; d< indexItems.size();d++){
+
+			//iterating through the docs under each indexed word.
+			for(int w =0;w<indexItems[d].docs.size(); w++){
+				if(indexItems[d].docs[w].doc==docName){
+					if(indexItems[d].word==queryWord){
+					sqrSum +=pow(indexItems[d].docs[w].tf_idf-query_idf,2);
+					}else{
+					sqrSum +=pow(indexItems[d].docs[w].tf_idf,2);
+					}
+				}
+			}
+		}
+
+		DocumentDistance docDistnace;
+		docDistnace.docName = docName;
+		docDistnace.distance = sqrt(sqrSum);
+		ditanceArray.push_back(docDistnace);
+	}
+
+	 // Sorting the DocumentDistance vector
+	    sort(ditanceArray.begin(), ditanceArray.end(), compareDistances);
+	return ditanceArray;
+}
+
 /**
+ * Finds the ecludianDistance between 2 vectors
+ * @param
  * Find the documents where the words in the query appear.
  * @param string query
  * @return string docs
- */
-/*string search(string query) {
+ *
+ * Define the data structure of the query
+ * calculate the TF-IDF of the query
+ * calculate the distance from every other document.
+ * sort the documents in the order of their weights.
+ * */
+string search(string query) {
 	istringstream iss(query);
 	string word;
-	vector<docsOrder> docsOrders;
+	vector<DocumentDistance> ditanceArray;
 
-	int count = 0;
+    double queryDocumentWord_tf_idf;
+
 	do {
 		iss >> word;
 		// if it is a stop word, move on
@@ -359,50 +465,41 @@ void loadIndex() {
 		if (k < 0) {
 			continue;
 		}
-		// for each doc where the word appears
-		for (int i = 0; i < indexItems[k].docs.size() && count < MAX_RESULTS; i++) {
-			// store the docs that matched the word
-			int j;
-			for (j = 0; j < docsOrders.size(); j++) {
-				if (docsOrders[j].doc == indexItems[k].docs[i]) {
-					docsOrders[j].number += 1;
-					break;
-				}
-			}
-			if (j == docsOrders.size()) {
-				docsOrder docOrder;
-				docOrder.doc = indexItems[k].docs[i];
-				docOrder.number = 1;
-				docsOrders.push_back(docOrder);
-				count++;
-			}
+
+        //calculate the tf_idf
+		if(indexItems[k].docs.size()!=0){
+			double temp = static_cast<double>(docs.size())/ static_cast<double>(indexItems[k].docs.size());
+			 queryDocumentWord_tf_idf = log2(temp);
+		}else{
+			//condition to call knowledge base
 		}
-	} while (iss && count < MAX_RESULTS);
+
+		ditanceArray = eclideanDistance(queryDocumentWord_tf_idf, word);
+
+	} while (iss);
 
 	// return message if nothing was found
-	if (docsOrders.empty()) {
+	if (ditanceArray.empty()) {
 		return "Sorry, we could not find any relevant document to your query";
 	}
 
-	// ordering
-	for (int i = 1; i < docsOrders.size() - 1; i++) {
-		int j = i;
-		while (j > 0 && docsOrders[j-1].number < docsOrders[j].number) {
-			iter_swap(docsOrders.begin()+j, docsOrders.begin()+j-1);
-			j--;
-		}
-	}
+
+ /*   for (int i = 0; i != ditanceArray.size(); ++i)
+        cout << ditanceArray[i].docName << " " << ditanceArray[i].distance;
+
+    cout << endl; */
+
+
 
 	// build result
 	string docs;
 	int i;
-	for (i = 0; i < docsOrders.size() - 1; i++) {
-		docs += docsOrders[i].doc + ",";
+	for (i = 0; i < ditanceArray.size(); i++) {
+		docs += ditanceArray[i].docName + ",";
 	}
-	docs += docsOrders[i].doc;
 
 	return docs;
-}*/
+}
 
 void print() {
 	int size = indexItems.size();
@@ -426,14 +523,13 @@ int main() {
 		// build index
 		buildIndex();
 	}
-
 	print();
 
-	/*cout << "Type your query: " << endl;
+	cout << "Type your query: " << endl;
 	string query;
 	getline(cin, query);
 	string res = search(query);
-	cout << res << endl;*/
+	cout << res << endl;
 
 	return 0;
 }
