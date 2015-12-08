@@ -19,7 +19,8 @@ const char DIR_TEXTS[] = "./texts_project/";
 //const char DIR_TEXTS[] = "./Test-Data/";
 const char STOP_WORDS[] = "./stop_words.txt";
 const char INDEX_FILE[] = "./index_file.txt";
-const int MAX_RESULTS = 10;
+
+bool isFirstTime =true;
 
 inline double log2(double x){
     return  log(x) * M_LOG2E;
@@ -120,7 +121,7 @@ void removeNewLine(string &line) {
 
 string getImmediateSibling (string query){
 
-    return "";
+    return "effort";
 }
 
 /**
@@ -336,7 +337,7 @@ void calculateTF_IDF() {
         int docsSize = indexItems[i].docs.size();
         double idf;
         if(docsSize!=0){
-            idf = log2(numDocuments / static_cast<double>(docsSize));
+            idf = loge(numDocuments / static_cast<double>(docsSize));
         }else{
             idf =0;
         }
@@ -425,7 +426,7 @@ vector<DocumentDistance> eclideanDistance(double query_idf, string queryWord){
         string docName = docs[i].name;
         bool isDocHasQuery = false;
 
-    //    cout << "Doc Name: " << docName << " :: ";
+     //    cout << "Doc Name: " << docName << " :: ";
         //iterate through indexItems to find the vector of this document.
         for(int d=0; d< indexItems.size();d++){
 
@@ -453,8 +454,8 @@ vector<DocumentDistance> eclideanDistance(double query_idf, string queryWord){
         docDistnace.distance = sqrt(sqrSum);
         ditanceArray.push_back(docDistnace);
 
-        //cout << "Distance : " << docDistnace.distance;
-        //cout << endl << endl;
+       // cout << "Distance : " << docDistnace.distance;
+       // cout << endl << endl;
     }
 
     // Sorting the DocumentDistance vector
@@ -476,31 +477,30 @@ vector<DocumentDistance> eclideanDistance(double query_idf, string queryWord){
  * */
 string search(string query) {
     istringstream iss(query);
-    string word;
+    string word = query;
     vector<DocumentDistance> ditanceArray;
 
     double queryDocumentWord_tf_idf = 0;;
 
 
-        iss >> word;
+       // iss >> word;
         // if it is a stop word, move on
         if (word.empty() || find(stopWords.begin(), stopWords.end(), word) != stopWords.end()) {
-           return "Sorry, we could not find any relevant document to your query";
+           return "Stop words are not searchable";
         }
         stemming(word);
         // search for the word in the index
-        int k = findIndex(word);
-        if (k < 0) {
-            return "Sorry, we could not find any relevant document to your query";
-        }
+         int k = findIndex(word);
 
-        //calculate the tf_idf
-        if(indexItems[k].docs.size()!=0){
-            double temp = static_cast<double>(docs.size())/ static_cast<double>(indexItems[k].docs.size());
-            queryDocumentWord_tf_idf = log2(temp);
-        }else{
-            //condition to call knowledge base
-        }
+    double temp;
+    if(k>=0){
+         temp = static_cast<double>(docs.size())/ static_cast<double>(indexItems[k].docs.size());
+    }else {
+        temp = static_cast<double>(docs.size());
+    }
+
+    queryDocumentWord_tf_idf = loge(temp);
+
 
         ditanceArray = eclideanDistance(queryDocumentWord_tf_idf, word);
 
@@ -509,6 +509,15 @@ string search(string query) {
     // return message if nothing was found
     if (ditanceArray.empty()) {
         return "Sorry, we could not find any relevant document to your query";
+    }else{
+        if(ditanceArray[0].distance > 3.6 && isFirstTime){
+
+            isFirstTime = false;
+
+            search(getImmediateSibling(query));
+
+        }
+
     }
 
 
@@ -565,4 +574,3 @@ int main() {
 
     return 0;
 }
-
