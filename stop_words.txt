@@ -105,7 +105,6 @@ found
 four
 from
 front
-full
 further
 get
 give
